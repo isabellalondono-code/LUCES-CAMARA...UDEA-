@@ -1,6 +1,6 @@
 # Luces Cámara UdeA
-![Logo del proyecto]
-
+![Logo del proyecto] Link del logo: 
+https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/issues/1#issue-3475738385
 
 
 ## 1. Integrantes:
@@ -54,19 +54,26 @@ Consulta el archivo [LICENSE]
 *Métricas de éxito:* número de reservas procesadas por fin de semana, tiempo promedio de generación de factura, porcentaje de cancelaciones procesadas correctamente.
 *Requisitos de interfaz: interfaces de usuarios, de comunicación y de software.
 
-## 6.  Requisitos funcionales
+## 6. Especificación de requisitos
+### Requisitos funcionales
 - RF01 — Registrar usuario con validaciones.
 - RF02 — Consultar funciones del fin de semana.
-- RF03 — Reservar asiento (marca `X`).
-- RF04 — Cancelar reserva (vuelve a `O`).
-- RF05 — Exportar datos a CSV.
-- RF06 — Módulo admin con reportes
+- RF03 — Reservar asiento.
+- RF04 — Cancelar reserva.
+- RF05 — Exportar registros a CSV.
+- RF06 — Módulo administrador con reportes.
+- RF07 — Generar factura.
 
-## Requisitos no funcionales:
- -rendimiento : respuestas 
-usabilidad: menus claros 
-portabilidad: python 
+### Requisitos no funcionales
+- RNF01 — Rendimiento: respuesta <.  
+- RNF02 — Usabilidad: menús claros.  
+- RNF03 — Portabilidad: Python
 
+## 7. Plan de proyecto
+- Actividades: Reunión inicial, diseño de requisitos, creación del repositorio, implementación, pruebas, entrega.  
+- Cronograma: Entrega 1 (puntos 1–7) en semana 8; entrega final en semana 16.  
+-El grupo lo conforman 4 estudiantes.
+-Cada estudiante invierte 50 horas de práctica → en total 200 horas.
+-Estas horas se reconocen como tiempo de formación equivalente a 1 SMLV (no en dinero real).
 
-
-
+(DOCUMENTO EXCEL ADJUNTADO EN ENTREGA #1)
