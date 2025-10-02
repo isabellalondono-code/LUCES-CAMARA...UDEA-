@@ -1,0 +1,72 @@
+# Luces Cámara UdeA
+![Logo del proyecto]
+
+
+
+## 1. Integrantes:
+Julián Alberto Gómez Agudelo - Julian.gomez17@udea.edu.co
+Isabella Londoño- isabella.londono@udea.edu.co
+Michael hincapie alzate-Michael.hincapie1@udea.edu.co
+Anderson Arboleda Duque-anderson.arboleda1@udea.edu.co
+
+
+##2. Vínculos académicos y descripción (por integrante)
+presentación 1:
+-Julián Alberto Gómez Agudelo.
+Estudiante de ingeniería industrial(seccional norte)
+Actualmente vivo en el municipio de Yarumal y tengo 30 años de edad.
+Habilidades principales: Trabajo en equipo, comunicación y resiliencia.
+
+presentación 2:
+-Isabella Londoño
+Estudiante de ingeniería industrial y de sistemas (sede medellín)
+Habilidades principales : comunicacion oral y escrita 
+
+presentación 3:
+-Michael hincapie alzate
+Estudiante de ingeniería industrial (seccional de oriente) 
+Habilidades principales : habilidades orales y trabajo en equipo. 
+
+presentacion 4: 
+-Anderson Arboleda Duque, de Abejorral Antioquia.
+Estudiante de ingeniería industrial (seccional de oriente) 
+Habilidades principales : Optimismo, Pensamiento crítico, Sociable.
+
+
+#### 3. Nombre del proyecto y detalles
+
+**Nombre:** Luces Cámara UdeA  
+Descripcion: 
+(logo)
+
+
+## 4. Licencia
+
+Este proyecto está bajo la licencia MIT.  
+Consulta el archivo [LICENSE]
+
+## 5. Reporte de visión
+
+*Descripción general:* Luces Cámara UdeA es un programa de consola que gestiona el Cinema Universitario para facilitar reservas, cobros y reportes administrativos.  
+*Objetivo:* Proveer una herramienta simple y confiable para la gestión de funciones de fin de semana, registrar reservas, cancelar reservas  y la administración de ingresos.  
+*Beneficios:* reduce tiempos de gestión manual, evita sobreventa de asientos, permite reportes diarios y generación de facturas en CSV.  
+*Público objetivo:* estudiantes, docentes, administrativos y público externo de la UdeA.  
+*Métricas de éxito:* número de reservas procesadas por fin de semana, tiempo promedio de generación de factura, porcentaje de cancelaciones procesadas correctamente.
+*Requisitos de interfaz: interfaces de usuarios, de comunicación y de software.
+
+## 6.  Requisitos funcionales
+- RF01 — Registrar usuario con validaciones.
+- RF02 — Consultar funciones del fin de semana.
+- RF03 — Reservar asiento (marca `X`).
+- RF04 — Cancelar reserva (vuelve a `O`).
+- RF05 — Exportar datos a CSV.
+- RF06 — Módulo admin con reportes
+
+## Requisitos no funcionales:
+ -rendimiento : respuestas 
+usabilidad: menus claros 
+portabilidad: python 
+
+
+
+
