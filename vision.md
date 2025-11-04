@@ -1,4 +1,4 @@
-# 🎬 Visión del Proyecto – CINEMATRIX
+# 🎬 Visión del Proyecto – LUCES,CAMARA UDEA
 https://github.com/CINE-UDEA/CINEMATRIX-Reto-acad-mico-UdeA/tree/main
 **CINEMATRIX** se consolida como un espacio cultural, académico y tecnológico dentro de la Universidad de Antioquia, dedicado a la proyección y difusión del cine en todas sus formas y géneros. Su misión es enriquecer la vida universitaria mediante una experiencia cinematográfica de alta calidad, accesible, diversa e inmersiva, que promueva el pensamiento crítico, la inclusión y el intercambio intelectual.
 
