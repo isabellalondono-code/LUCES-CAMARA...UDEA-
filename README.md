@@ -7,16 +7,15 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 
 ---
 
-## 👥 Integrantes del equipo
+## 👥 Integrantes del Equipo
 
-| Nombre completo                  | Usuario GitHub              | Rol en el proyecto              |
-|----------------------------------|------------------------------|----------------------------------|
-| Isabella Londoño         | [@tomasalvarez-shadow](https://github.com/tomasalvarez-shadow) | Líder académico y técnico        |
-| Julián Alberto Gómez Agudelo     | [@Angelica0511](https://github.com/Angelica0511)               | Desarrollo y documentación       |
-| Michael Hincapie Alzate             | [@luznunez-netizen](https://github.com/luznunez-netizen)             | académica y técnica           |
-| Anderson Arboleda Duque          | [@denisse15](https://github.com/denisse15)                     | Diseño y presentación            |
-
----
+| Nombre completo | Correo institucional | Rol en el proyecto |
+|-----------------|----------------------|--------------------|
+| Isabella Londoño | isabella.londono@udea.edu.co | Líder / Scrum Master |
+| Julián Alberto Gómez Agudelo | julian.gomez17@udea.edu.co | Arquitecto del Software |
+| Michael Hincapie Alzate | michael.hincapie1@udea.edu.co | Desarrollador Principal |
+| Anderson Arboleda Duque | anderson.arboleda1@udea.edu.co | Documentación & QA |
+ 
 
 ## 📽️ Descripción del Proyecto
 
