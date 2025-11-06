@@ -1,6 +1,6 @@
 🗂️ Punto 8: Plan de Versionado
 
-# Este documento describe las versiones del software desarrolladas durante el proyecto "Cinema Universitario", indicando los avances realizados en cada etapa. Las versiones se registran cronológicamente desde el inicio del proyecto hasta la entrega final.
+Este documento describe las versiones del software desarrolladas durante el proyecto "Cinema Universitario", indicando los avances realizados en cada etapa. Las versiones se registran cronológicamente desde el inicio del proyecto hasta la entrega final.
 
 ## 📅 Cronograma de versiones
 
@@ -18,5 +18,3 @@
 | v1.0   | Semana 14      | Versión final lista para sustentación                                                                 | Líder del equipo       | Se sube a GitHub y se prepara manual de usuario |
 
 ---
-
-**Nota:** Cada versión será etiquetada en el repositorio de GitHub y documentada en el archivo `CHANGELOG.md` para facilitar el seguimiento del desarrollo.
