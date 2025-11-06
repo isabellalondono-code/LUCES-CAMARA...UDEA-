@@ -23,13 +23,13 @@ Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollad
 | Michael Hincapié Alzate | Ingeniería Industrial | Seccional Oriente |
 | Anderson Arboleda Duque | Ingeniería Industrial | Seccional Oriente |
 
-## 📽️ Descripción del Proyecto
+## 🎬 Descripción del Proyecto
 
-**CINEMATRIX** es una iniciativa académica desarrollada por estudiantes de Ingeniería Industrial de la Universidad de Antioquia como parte del reto integrador de la asignatura *Algoritmia y Programación 2025-2*. El proyecto simula un sistema de gestión cinematográfica dirigido a la comunidad universitaria, con énfasis en accesibilidad, diversidad cultural y experiencia inmersiva.
+ **LUCES-CÁMARA, UDEA** es un sistema desarrollado en Python desde consola, diseñado para gestionar de forma eficiente un espacio cinematográfico dentro de la Universidad de Antioquia. Este proyecto busca ofrecer a la comunidad universitaria —estudiantes, docentes, administrativos, oficiales internos y público externo— una experiencia organizada y accesible para reservar asientos, consultar funciones, generar facturas y visualizar reportes administrativos.
 
-Diseñado para estudiantes que inician su formación en programación, CINEMATRIX se desarrolla íntegramente en **Google Colab**, utilizando **Python** como lenguaje base y aplicando principios de diseño modular, documentación pedagógica y buenas prácticas colaborativas. El sistema permite registrar películas, simular reservas, mostrar estadísticas y generar recomendaciones, todo dentro de un entorno técnico accesible y educativo.
+El programa permite registrar usuarios con validaciones específicas, gestionar reservas en una sala con 121 sillas, cancelar reservas activas, consultar la cartelera del fin de semana y acceder a un módulo de administración con estadísticas clave como ingresos, número de reservas y usuarios frecuentes. Además, los datos generados pueden exportarse a archivos CSV para su análisis y respaldo.
 
-El proyecto integra elementos de **ciberseguridad**, **automatización** y **visualización básica**, y se apoya en herramientas como **GitHub**, **Markdown** y **diagramas de Gantt** para la gestión técnica y documental. CINEMATRIX busca no solo resolver un reto algorítmico, sino también fomentar el pensamiento crítico, el trabajo en equipo y la excelencia académica en entornos colaborativos.
+**LUCES-CÁMARA, UDEA** fue desarrollado por estudiantes de Ingeniería Industrial como parte del curso Algoritmia y Programación 2025-2, bajo la metodología de desarrollo ágil y con entregas programadas en un repositorio de GitHub. El proyecto integra habilidades técnicas en programación, lógica, validación de datos, documentación en Markdown y trabajo colaborativo, consolidando una solución funcional y educativa para la gestión de cine universitario.
 
 ---
 
