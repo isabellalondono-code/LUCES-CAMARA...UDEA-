@@ -33,11 +33,18 @@ El proyecto integra elementos de **ciberseguridad**, **automatización** y **vis
 
 ---
 
-## ⏳ Objetivos del Proyecto
+## 🎯 Objetivos del Proyecto
+- Diseñar un programa en Python que funcione desde consola y permita gestionar un cine universitario de forma amigable para el usuario.
+- Registrar usuarios con validaciones estrictas en nombre, apellido, documento y tipo de vínculo (estudiante, docente, etc.).
+- Gestionar reservas de asientos para funciones de cine, mostrando visualmente la disponibilidad y ocupación de sillas.
+- Cancelar reservas activas, validando que el usuario tenga una reserva vigente y actualizando el estado del asiento.
+- Consultar funciones del fin de semana, mostrando cartelera, horarios y disponibilidad de sillas por película.
+- Imprimir facturas y confirmar compras de tiquetes, incluyendo el valor según el tipo de usuario.
+- Exportar datos a archivos CSV, como respaldo de información administrativa y operativa del cine.
+- Desarrollar un módulo de administración con reportes como total de reservas, ingresos, usuarios frecuentes, etc.
+- Organizar el proyecto en GitHub, incluyendo carpetas específicas (src, doc) y documentación en Markdown.
+- Aplicar trabajo colaborativo mediante actas de entendimiento, colaboración y responsabilidad, con roles definidos para cada integrante.
 
-- Simular un sistema de gestión cinematográfica para la comunidad universitaria.  
-- Aplicar principios de programación modular y documentación pedagógica.  
-- Fomentar el trabajo colaborativo y el pensamiento crítico en entornos técnicos.
 
 ---
 
