@@ -94,13 +94,17 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 
 ## 📝 Licencia
 
-Este proyecto está bajo la licencia CC-BY-NC-SA 4.0 para más detalles puedes consultar la carpeta licencia.md
+Este proyecto está bajo la licencia CC-BY-NC-SA 4.0 para más detalles puedes consultar la carpeta LICENSE.
 
 ---
 
-## 🤝 Agradecimientos
+## 🙏 Agradecimientos
 
-Agradecemos al equipo docente de *Algoritmia y Programación 2025-2* por su acompañamiento, y a la comunidad **CINE-UDEA** por inspirar este proyecto académico.
+Queremos expresar nuestro más sincero agradecimiento al profesor John Heider Dávila por su guía, exigencia académica y acompañamiento constante durante el desarrollo de este proyecto integrador. Su orientación nos permitió comprender la importancia de aplicar la lógica, la programación y el trabajo en equipo para resolver problemas reales.
+
+Agradecemos también a la Universidad de Antioquia y a la Facultad de Ingeniería por brindarnos el espacio y los recursos para crecer como futuros profesionales. Este proyecto no solo fortaleció nuestras habilidades técnicas, sino también nuestra capacidad de colaborar, comunicar y asumir responsabilidades compartidas.
+
+Finalmente, reconocemos el compromiso de cada integrante del equipo, cuyo esfuerzo, dedicación y respeto mutuo hicieron posible la construcción de este software. Este trabajo representa no solo una entrega académica, sino una experiencia de aprendizaje significativa que llevaremos con nosotros en nuestra formación profesional.
 
 <!-- actividad:start -->
 <!-- actividad:end -->
