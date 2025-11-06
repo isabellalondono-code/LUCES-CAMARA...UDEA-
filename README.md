@@ -92,9 +92,9 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - `LICENSE.md`: Licencia del proyecto
 
 
-## 📄 Licencia
+## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo `LICENSE.md` para más detalles.
+Este proyecto está bajo la licencia CC-BY-NC-SA 4.0 para más detalles puedes consultar la carpeta licencia.md
 
 ---
 
