@@ -1,9 +1,9 @@
 ### PROYECTO FINAL
 
 [![logo-proyecto.jpg](https://i.postimg.cc/B6B52wks/logo-proyecto.jpg)](https://postimg.cc/vgD6sXGS)
-# 🎞️ Proyecto: CINEMATRIX
+# 🎞️ Proyecto:
 
-Este repositorio forma parte de la organización **CINE-UDEA** y fue desarrollado por estudiantes de Ingeniería Industrial como parte de un reto académico colaborativo.
+
 
 ---
 
@@ -76,9 +76,9 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 ## 🗂️ Documentación del Proyecto
 
 - [Especificación de Requisitos](requisitos.md)  
-- [Visión del Proyecto CINEMATRIX](vision.md)  
+- [Visión del Proyecto ](vision.md)  
 - [Integrantes y Vínculos Académicos](Integrantes-Vínculos%20acad%C3%A9micos%20y%20descripci%C3%B3n.md)  
-- [Plan de Proyecto CINEMATRIX](Plan_de_Proyecto.md)
+- [Plan de Proyecto ](Plan_de_Proyecto.md)
 
 
 ---
