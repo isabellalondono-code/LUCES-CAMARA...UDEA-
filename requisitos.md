@@ -1,6 +1,6 @@
-# 📌 Especificación de Requisitos – Proyecto CINEMATRIX
+# 📌 Especificación de Requisitos – Proyecto 
 
-Este documento presenta los requisitos funcionales y no funcionales del software CINEMATRIX, desarrollado en el entorno colaborativo Google Colab como parte del curso de Algoritmia y Programación. El proyecto está orientado a estudiantes que inician su formación en programación, con énfasis en claridad, modularidad y aprendizaje progresivo.
+Este documento presenta los requisitos funcionales y no funcionales del software, desarrollado en el entorno colaborativo Google Colab como parte del curso de Algoritmia y Programación. El proyecto está orientado a estudiantes que inician su formación en programación, con énfasis en claridad, modularidad y aprendizaje progresivo.
 
 ---
 
