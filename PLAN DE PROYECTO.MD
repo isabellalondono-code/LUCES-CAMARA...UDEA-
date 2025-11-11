@@ -1,7 +1,7 @@
 # 🎬 Plan de Proyecto –   
 
 ## 1. Introducción  
-CINEMATRIX es un espacio cultural, académico y tecnológico dentro de la Universidad de Antioquia, dedicado a la proyección y difusión del cine en todas sus formas y géneros. Su propósito es enriquecer la vida universitaria mediante una experiencia cinematográfica de calidad, accesible, diversa e inmersiva, que promueva el pensamiento crítico, la inclusión y el intercambio intelectual.  
+ es un espacio cultural, académico y tecnológico dentro de la Universidad de Antioquia, dedicado a la proyección y difusión del cine en todas sus formas y géneros. Su propósito es enriquecer la vida universitaria mediante una experiencia cinematográfica de calidad, accesible, diversa e inmersiva, que promueva el pensamiento crítico, la inclusión y el intercambio intelectual.  
 
 ## 2. Justificación  
 El cine es un medio artístico, pedagógico y cultural que potencia el aprendizaje, la reflexión y la creatividad. Actualmente, la comunidad universitaria carece de un espacio especializado en proyección y formación cinematográfica.  
