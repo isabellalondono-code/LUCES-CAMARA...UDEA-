@@ -1,50 +1,61 @@
-# 📌 Especificación de Requisitos – Proyecto 
+---
 
-Este documento presenta los requisitos funcionales y no funcionales del software, desarrollado en el entorno colaborativo Google Colab como parte del curso de Algoritmia y Programación. El proyecto está orientado a estudiantes que inician su formación en programación, con énfasis en claridad, modularidad y aprendizaje progresivo.
+## Especificación de Requisitos “LUCES-CAMARA...UDEA”
+
+Este documento describe los requisitos funcionales y no funcionales del sistema de gestión del Cine Universitario, desarrollado como proyecto académico para el curso de Algoritmia y Programación.
+El sistema busca ofrecer una simulación de la gestión de un cine universitario mediante una interfaz de consola en Python, empleando conceptos básicos de programación estructurada y orientada a objetos.
 
 ---
 
-## 🕹️ Requisitos Funcionales (RF)
+## Objetivo general
+
+Diseñar y desarrollar un programa de consola que permita gestionar las operaciones básicas de un cine universitario, incluyendo registro de usuarios, reservas, cancelaciones, facturación y reportes administrativos, garantizando una interacción amigable y clara para el usuario.
+
+---
+
+## Requisitos Funcionales (RF)
 
 Los requisitos funcionales definen las acciones específicas que el sistema debe ejecutar para cumplir con los objetivos del proyecto.
 
 | Código | Requisito | Propósito pedagógico |
 |--------|-----------|-----------------------|
-| RF1 | Registrar películas con título, género, duración y sinopsis | Introduce estructuras de datos como listas y diccionarios |
-| RF2 | Buscar películas por género o palabra clave | Practica condicionales y filtros |
-| RF3 | Mostrar cartelera actualizada | Refuerza ciclos `for` y ordenamiento |
-| RF4 | Registrar usuarios (nombre, correo institucional) | Introduce validaciones básicas y almacenamiento |
-| RF5 | Permitir selección de película y reserva simbólica | Simula interacción sin necesidad de base de datos |
-| RF6 | Mostrar estadísticas simples (películas más vistas, géneros más populares) | Introduce conteo, visualización y lógica de agregación |
-| RF7 | Filtrar películas por duración o año de estreno | Refuerza operadores lógicos y comprensión de rangos |
-| RF8 | Exportar cartelera a archivo `.txt` o `.csv` | Introduce manejo de archivos en Python |
-| RF9 | Simular votación por película favorita | Practica acumuladores y estructuras condicionales |
-| RF10 | Mostrar recomendaciones según género preferido | Introduce lógica condicional avanzada y personalización básica |
+| RF1 | Registrar usuarios | El sistema debe permitir registrar usuarios ingresando nombre, apellido, documento y tipo de vínculo (estudiante, docente, administrativo, oficial interno o público externo). |
+| RF2 | Validar datos de usuario | El sistema debe verificar que el nombre y apellido tengan mínimo tres letras y no incluyan números; el documento solo debe contener entre 3 y 15 dígitos numéricos. |
+| RF3 | Mostrar menú principal	| El sistema debe desplegar un menú de opciones que permita al usuario navegar entre registrar, reservar, cancelar o consultar funciones. |
+| RF4 | Consultar cartelera	| El usuario podrá visualizar la lista de películas disponibles para el próximo fin de semana, con información de día, hora y sillas disponibles. |
+| RF5 | Registrar reserva	| Solo los usuarios registrados podrán realizar reservas. El sistema mostrará el mapa de asientos y permitirá seleccionar uno. |
+| RF6 | Generar factura	| Después de la reserva, el sistema debe mostrar la confirmación del tiquete con los datos del usuario, película, tipo de vínculo y valor total. |
+| RF7 | Cancelar reserva | Los usuarios podrán cancelar una reserva activa. El sistema validará la existencia de la reserva antes de permitir su cancelación. |
+| RF8 | Control de asientos	| Cada vez que un usuario reserve o cancele, el sistema debe actualizar el estado del asiento en el mapa de ocupación. |
+| RF9 | Acceso de administrador	| Debe existir un módulo protegido con usuario y contraseña para acceder a reportes administrativos. |
+| RF10 | Reportes administrativos	| El módulo de administrador debe permitir visualizar el total de reservas, total de ingresos, promedio diario, lista de usuarios y el usuario con más y menos reservas.|
+| RF11 | Finalizar sesión |	Al salir del sistema, se debe mostrar un mensaje de cierre y retornar al menú principal o finalizar la ejecución. |
 
 ---
 
-## 📬 Requisitos No Funcionales (RNF)
-#shadow
+## Requisitos No Funcionales (RNF)
+
 Los requisitos no funcionales definen criterios de calidad, rendimiento y usabilidad que complementan el comportamiento del sistema.
 
 | Código | Requisito | Aplicación en Colab |
 |--------|-----------|---------------------|
-| RNF1 | Interfaz clara y amigable en consola | Uso de `print()` estructurado y mensajes explicativos |
-| RNF2 | Tiempo de respuesta menor a 2 segundos por operación | Ideal para scripts livianos |
-| RNF3 | Código comentado y modular | Facilita la lectura y el aprendizaje colaborativo |
-| RNF4 | Compatible con navegadores y dispositivos móviles | Colab cumple esto por defecto |
-| RNF5 | Seguridad básica: no almacenar datos sensibles | Evita confusiones sobre privacidad |
-| RNF6 | Accesibilidad: lenguaje claro y sin tecnicismos | Fundamental para estudiantes sin experiencia |
-| RNF7 | Código reutilizable y organizado en funciones | Introduce buenas prácticas de programación |
-| RNF8 | Documentación mínima en cada celda | Refuerza la comprensión del flujo lógico |
-| RNF9 | Uso de ejemplos y casos de prueba en cada función | Mejora la validación y el aprendizaje activo |
-| RNF10 | Adaptabilidad del código para futuros módulos | Prepara el terreno para evolución del proyecto |
+| RNF1 | Usabilidad | La interfaz en consola debe ser clara, con mensajes descriptivos y opciones numeradas para facilitar la interacción. |
+| RNF2 | Rendimiento | El tiempo de respuesta de las operaciones no debe superar los 2 segundos. |
+| RNF3 | Seguridad básica |	Los datos ingresados no deben almacenarse de forma permanente ni incluir información sensible. |
+| RNF4 | Portabilidad	| El programa debe ser ejecutable en cualquier entorno con Python (Google Colab, terminal o IDE). |
+| RNF5 | Mantenibilidad |	El código debe estar modularizado y documentado con comentarios breves que expliquen la función de cada bloque. |
+| RNF6 | Reusabilidad |	El código debe ser adaptable para futuras versiones o mejoras (por ejemplo, reserva múltiple o interfaz gráfica). |
+| RNF7 | Claridad pedagógica | El programa debe ser entendible para estudiantes que inician en programación, evitando complejidad innecesaria. |
+| RNF8 | Compatibilidad |	El programa debe funcionar correctamente en Google Colab, cumpliendo con los requerimientos del curso. |
+| RNF9 | Accesibilidad | Debe utilizar un lenguaje simple, mensajes informativos y evitar tecnicismos. |
+| RNF10 | Control de errores | El sistema debe validar entradas y mostrar mensajes adecuados cuando se detecten errores de ingreso o ejecución. |
 
 ---
 
-## 🔎 Observaciones finales
+## Observaciones finales
 
-- Todos los requisitos están diseñados para ser implementados en Google Colab, aprovechando su accesibilidad y facilidad de uso.
-- Se prioriza la claridad, modularidad y retroalimentación visual para facilitar el aprendizaje de estudiantes sin experiencia previa.
-- Este documento será actualizado conforme avance el desarrollo del proyecto y se validen nuevas funcionalidades.
-#shadow
+- El desarrollo se realizará en Python, con ejecución en Google Colab o consola local.
+
+- Se prioriza la claridad, modularidad y comprensión sobre la complejidad técnica.
+
+- La especificación podrá actualizarse según el avance del proyecto y los requerimientos del docente.
