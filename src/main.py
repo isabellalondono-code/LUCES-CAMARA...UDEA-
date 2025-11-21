@@ -4,12 +4,12 @@ from funciones import consultar_funciones
 from admin import menu_admin
 
 # -------------------------------
-# MENÚ PRINCIPAL DEL CINEMA UDEA
+# MENÚ PRINCIPAL DEL CINE, CÁMARAS Y UDEA
 # -------------------------------
 
 def menu_principal():
     while True:
-        print("\n========== CINEMA UDEA INTERESTELAR ==========\n")
+        print("\n========== CINE, CÁMARAS Y UDEA ==========\n")
         print("1. Registrar Usuario")
         print("2. Registrar Reserva")
         print("3. Cancelar Reserva")
@@ -35,7 +35,7 @@ def menu_principal():
             menu_admin()
 
         elif opcion == "6":
-            print("\nGracias por usar el Cinema UdeA. ¡Hasta luego!")
+            print("\nGracias por usar Cine, Cámaras y UdeA. ¡Hasta luego!")
             break
 
         else:
@@ -44,3 +44,4 @@ def menu_principal():
 
 if __name__ == "__main__":
     menu_principal()
+
