@@ -5,7 +5,7 @@ from datos import sala, usuarios, reservas
 # ----------------------------------
 
 def mostrar_sala():
-    print("\nCINEMA UDEA  (O = Disponible / X = Ocupado)\n")
+    print("\nCINE, CÁMARAS Y UDEA  (O = Disponible / X = Ocupado)\n")
 
     columnas = "   " + "  ".join([chr(65 + i) for i in range(len(sala[0]))])
     print(columnas)
@@ -33,7 +33,6 @@ def buscar_usuario(documento):
 def registrar_reserva():
     print("\n=== REGISTRAR RESERVA ===")
 
-    # 1. Validar que el usuario esté registrado
     documento = input("Ingrese el documento del usuario: ")
 
     usuario = buscar_usuario(documento)
@@ -41,10 +40,8 @@ def registrar_reserva():
         print("❌ El usuario no está registrado. Primero debe registrarse.")
         return
 
-    # 2. Mostrar la sala
     mostrar_sala()
 
-    # 3. Escoger asiento (ejemplo: A5 → fila A, columna 5)
     asiento = input("\nSeleccione el asiento (Ej: A5): ").upper()
 
     if len(asiento) < 2:
@@ -61,20 +58,16 @@ def registrar_reserva():
     fila = ord(fila_letra) - 65
     col = int(col_num)
 
-    # Validar rango
     if fila < 0 or fila >= len(sala) or col < 0 or col >= len(sala[0]):
         print("❌ El asiento no existe.")
         return
 
-    # Validar disponibilidad
     if sala[fila][col] == "X":
         print("❌ El asiento ya está ocupado.")
         return
 
-    # Marcar asiento como ocupado
     sala[fila][col] = "X"
 
-    # Agregar a reservas
     reservas.append({
         "usuario": usuario,
         "fila": fila_letra,
@@ -101,7 +94,6 @@ def cancelar_reserva():
         print("❌ No existe un usuario con ese documento.")
         return
 
-    # Buscar reservas del usuario
     reservas_usuario = [r for r in reservas if r["usuario"]["documento"] == documento]
 
     if not reservas_usuario:
@@ -120,12 +112,10 @@ def cancelar_reserva():
 
     reserva = reservas_usuario[int(opcion) - 1]
 
-    # Liberar asiento
     fila = ord(reserva["fila"]) - 65
     columna = reserva["columna"]
     sala[fila][columna] = "O"
 
-    # Eliminar de la lista de reservas
     reservas.remove(reserva)
 
     print("\n✔ Reserva cancelada exitosamente.")
