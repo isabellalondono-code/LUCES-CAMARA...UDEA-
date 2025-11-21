@@ -39,3 +39,46 @@ Aportar significativamente con mis conocimientos al desarrollo de mi familia y c
 - Finanzas.
 
 -------
+
+👩🏻‍💻 Isabella Londoño
+
+Estudiante de Ingeniería Industrial e Ingeniería de Sistemas – Sede Medellín
+Comunicación oral y escrita, liderazgo, gestión y coordinación.
+
+🧠 Habilidades técnicas y académicas
+
+Análisis y organización de la información.
+
+Manejo de herramientas informáticas.
+
+Programación básica y lógica computacional.
+
+Optimización de procesos.
+
+Gestión y coordinación de equipos.
+
+Comunicación asertiva.
+
+Liderazgo constructivo.
+
+Adaptabilidad al cambio.
+
+🔭 Visión
+
+Desarrollar habilidades técnicas y profesionales que me permitan crecer en el campo de la ingeniería, aportando soluciones efectivas y aprendiendo constantemente en un entorno cambiante.
+
+🎯 Misión
+
+Aplicar mis conocimientos y capacidades para contribuir al desarrollo tecnológico, social y académico de mi entorno y de mi equipo de trabajo.
+
+💡 Intereses académicos y profesionales
+
+Desarrollo de software y análisis de datos.
+
+Optimización de procesos.
+
+Liderazgo y gestión de proyectos.
+
+Innovación tecnológica.
+
+Crecimiento personal y profesional.
