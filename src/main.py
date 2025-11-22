@@ -1,7 +1,7 @@
-from usuarios import registrar_usuario
-from reservas import registrar_reserva, cancelar_reserva, mostrar_sala
-from funciones import consultar_funciones
-from admin import menu_admin
+from .usuarios import registrar_usuario
+from .reservas import registrar_reserva, cancelar_reserva, mostrar_sala
+from .funciones import consultar_funciones
+from .admin import menu_admin
 
 # -------------------------------
 # MENÚ PRINCIPAL DEL CINE, CÁMARAS Y UDEA
