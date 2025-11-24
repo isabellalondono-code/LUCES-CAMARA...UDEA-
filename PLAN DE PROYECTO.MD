@@ -12,14 +12,21 @@ CINEMATRIX busca llenar ese vacío, ofreciendo un cine universitario con visión
 
 ## 3. Objetivos  
 ### Objetivo general  
-Consolidar a CINEMATRIX como un espacio académico, cultural y tecnológico de proyección cinematográfica para la Universidad de Antioquia.  
+Diseñar y desarrollar un programa de consola que permita gestionar las operaciones básicas de un cine universitario, incluyendo registro de usuarios, reservas, cancelaciones, facturación y reportes administrativos, garantizando una interacción amigable y clara para el usuario.  
 
 ### Objetivos específicos  
-- Proyectar películas recientes y clásicas de diversos géneros, estilos y épocas.  
-- Ofrecer un espacio para la proyección de producciones estudiantiles (cortometrajes, documentales y largometrajes).  
-- Incentivar el arte, la cinematografía y el pensamiento crítico mediante cine-foros, talleres y charlas.  
-- Fomentar la participación estudiantil a través de asignaturas relacionadas y convocatorias.  
-- Brindar oportunidades de empleo y práctica a estudiantes en áreas como programación, logística, soporte técnico y diseño.  
+- 	Diseñar un programa  que funcione desde consola y permita gestionar un cine universitario de forma amigable para el usuario.
+-	Poder registrar usuarios con validaciones estrictas en nombre, apellido, documento y tipo de vínculo (estudiante, docente, etc.).
+-	Gestionar reservas de asientos para funciones de cine, mostrando visualmente la disponibilidad y ocupación de sillas.
+-	Cancelar reservas activas, validando que el usuario tenga una reserva vigente y actualizando el estado del asiento.
+-	Consultar funciones del fin de semana, mostrando cartelera, horarios y disponibilidad de sillas por película.
+-	Imprime facturas y confirma compras de tiquetes, incluyendo el valor según el tipo de usuario.
+-	Exportar datos a archivos CSV, como respaldo de información administrativa y operativa del cine.
+-	Desarrollar un módulo de administración con informes como total de reservas, ingresos, usuarios frecuentes, etc.
+-	Organizar el proyecto en GitHub, incluyendo carpetas específicas (src, doc) y documentación en Markdown.
+
+
+ 
 
 ## 4. Alcance  
 - **Incluye:**  
