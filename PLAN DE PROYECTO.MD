@@ -15,7 +15,7 @@ CINEMATRIX busca llenar ese vacío, ofreciendo un cine universitario con visión
 Diseñar y desarrollar un programa de consola que permita gestionar las operaciones básicas de un cine universitario, incluyendo registro de usuarios, reservas, cancelaciones, facturación y reportes administrativos, garantizando una interacción amigable y clara para el usuario.  
 
 ### Objetivos específicos  
-- 	Diseñar un programa  que funcione desde consola y permita gestionar un cine universitario de forma amigable para el usuario.
+- Diseñar un programa  que funcione desde consola y permita gestionar un cine universitario de forma amigable para el usuario.
 -	Poder registrar usuarios con validaciones estrictas en nombre, apellido, documento y tipo de vínculo (estudiante, docente, etc.).
 -	Gestionar reservas de asientos para funciones de cine, mostrando visualmente la disponibilidad y ocupación de sillas.
 -	Cancelar reservas activas, validando que el usuario tenga una reserva vigente y actualizando el estado del asiento.
@@ -30,14 +30,13 @@ Diseñar y desarrollar un programa de consola que permita gestionar las operacio
 
 ## 4. Alcance  
 - **Incluye:**  
-  - Sala física de cine en la Universidad de Antioquia.  
-  - Proyección de cine en tendencia, cine clásico, documentales y producciones estudiantiles.  
-  - Programación cultural y académica complementaria (talleres, charlas, cine-foros).  
-  - Integración tecnológica futura con RV, RA y sonido envolvente.  
+- Sala de cine fisica en el campus universitario con capacidad para 121 espectadores
+- Proyección de exposiciones y proyectos presentados por las facultades
+- Presentación de otros eventos programados por la universidad.
+ 
 
 - **No incluye:**  
-  - Producción cinematográfica comercial externa.  
-  - Distribución fuera de la universidad.  
+ - Actividades fuera de nuestro enfoque cinemático
 
 ## 5. Metas para el 2030  
 - **Presencia en todos los campus:** consolidar salas físicas y espacios virtuales que conecten a toda la comunidad universitaria.  
