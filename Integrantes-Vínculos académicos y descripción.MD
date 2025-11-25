@@ -40,11 +40,11 @@ Aportar significativamente con mis conocimientos al desarrollo de mi familia y c
 
 -------
 
-###👩🏻‍💻 Isabella Londoño
+👩🏻‍💻 Isabella Londoño
 
 Estudiante de Ingeniería Industrial e Ingeniería de Sistemas – Sede Medellín
 
-###🧠 Habilidades técnicas y académicas
+🧠 Habilidades técnicas y académicas
 
 -Análisis y organización de la información.
 -Manejo de herramientas informáticas.
@@ -55,15 +55,15 @@ Estudiante de Ingeniería Industrial e Ingeniería de Sistemas – Sede Medellí
 -Liderazgo constructivo.
 -Adaptabilidad al cambio.
 
-###🔭 Visión
+🔭 Visión
 
 -Desarrollar habilidades técnicas y profesionales que me permitan crecer en el campo de la ingeniería, aportando soluciones efectivas y aprendiendo constantemente en un entorno cambiante.
 
-###🎯 Misión
+🎯 Misión
 
 -Aplicar mis conocimientos y capacidades para contribuir al desarrollo tecnológico, social y académico de mi entorno y de mi equipo de trabajo.
 
-###💡 Intereses académicos y profesionales
+💡 Intereses académicos y profesionales
 
 -Desarrollo de software y análisis de datos.
 -Optimización de procesos.
@@ -73,11 +73,11 @@ Estudiante de Ingeniería Industrial e Ingeniería de Sistemas – Sede Medellí
 
 -------
 
-###👨🏻‍💻 Michael Hincapié Alzate
+👨🏻‍💻 Michael Hincapié Alzate
 
 Estudiante de Ingeniería Industrial – Seccional Oriente
 
-###🧠 Habilidades técnicas y académicas
+🧠 Habilidades técnicas y académicas
 
 Análisis de datos básicos.
 -Manejo de herramientas informáticas.
@@ -88,15 +88,15 @@ Análisis de datos básicos.
 -Comunicación asertiva.
 -Responsabilidad operativa.
 
-###🔭 Visión
+🔭 Visión
 
 -Formarme como un profesional capaz de aportar al desarrollo organizacional mediante la mejora continua y la innovación, aprendiendo de cada experiencia para crecer integralmente.
 
-###🎯 Misión
+🎯 Misión
 
 -Contribuir de manera efectiva en proyectos académicos y profesionales, aportando compromiso, disciplina y disposición para aprender.
 
-###💡 Intereses académicos y profesionales
+💡 Intereses académicos y profesionales
 
 -Gestión de procesos.
 -Modelamiento de operaciones.
@@ -106,11 +106,11 @@ Análisis de datos básicos.
 
 -------
 
-###👨🏾‍💻 Anderson Arboleda Duque
+👨🏾‍💻 Anderson Arboleda Duque
 
 Estudiante de Ingeniería Industrial – Abejorral, Antioquia
 
-###🧠 Habilidades técnicas y académicas
+🧠 Habilidades técnicas y académicas
 
 Pensamiento crítico y analítico.
 -Organización documental y estructuración de información.
@@ -120,15 +120,15 @@ Pensamiento crítico y analítico.
 -Trabajo en equipo.
 -Adaptabilidad.
 
-###🔭 Visión
+🔭 Visión
 
 -Convertirme en un profesional íntegro que aporte al crecimiento de mi comunidad y del sector productivo mediante soluciones eficientes y socialmente responsables.
 
-###🎯 Misión
+🎯 Misión
 
 -Aportar mis habilidades personales y técnicas para fortalecer el desarrollo de los proyectos en los que participo, manteniendo una actitud positiva y proactiva.
 
-###💡 Intereses académicos y profesionales
+💡 Intereses académicos y profesionales
 
 -Gestión de procesos.
 -Mejoramiento continuo.
