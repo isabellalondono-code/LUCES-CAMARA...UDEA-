@@ -51,12 +51,8 @@ Diseñar y desarrollar un programa de consola que permita gestionar las operacio
 ## 7. Presupuesto y Herramientas 
 - **Presupuesto:** Equipo de trabajo de 4 estudiantes, de los cuales cada uno invertira un total de 70  horas en un periodo de 2 Meses , las cuales seran dedicadas a la practica y ejecución del proyecto. Para tener un total de 280 horas las cuales seran reconocidas como tiempo de formación y tienen un valor equivalente de 2 SMLV por integrante (no són en dinero real) 
 
--**Herramientas tecnologicas:** Para la ejecucion de ested proyecto y con la finalidad de ser un programa agradable para el usuario se han utilizado las giquientes herramientas.
-•	Google Colab
-•	Python 3
-•	Markdown
-•	Git y GitHub
-•	Licencia MIT / Creative Commons
+  **Herramientas tecnologicas:** Para la ejecucion de ested proyecto y con la finalidad de ser un programa agradable para el usuario se han utilizado las siguientes herramientas; Gogle Colab,Python 3, Markdown, Git y Github, licencia MIT/ Creative Commons
+
 
 
 ## 8. Cronograma general  
