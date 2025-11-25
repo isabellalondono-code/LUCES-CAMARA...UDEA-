@@ -4,15 +4,15 @@ LUCES-CÁMARA-UDEA es un proyecto académico desarrollado por estudiantes de Ing
 
 La visión del proyecto se fundamenta en los siguientes pilares:
 
-# 🎯 **Propósito**
+#  **Propósito**
 
 Contribuir al bienestar cultural y recreativo de la comunidad universitaria mediante el desarrollo de una herramienta tecnológica que facilite el acceso al cine dentro del campus, promoviendo la gestión eficiente de recursos, la automatización de procesos y la mejora continua del servicio.
 
-# 🧠 **Enfoque académico**
+#  **Enfoque académico**
 
 Este proyecto integra conocimientos de algoritmia, programación estructurada, validación de datos, estructuras de control, manejo de archivos planos (CSV) y trabajo colaborativo. Se desarrolla bajo metodologías ágiles, fomentando la responsabilidad individual y grupal, la documentación técnica en Markdown y el uso de plataformas como GitHub para control de versiones y entrega formal.
 
-# 🧩 **Funcionalidades clave**
+#  **Funcionalidades clave**
 
 - Registro de usuarios con validaciones estrictas.
 - Gestión de reservas de asientos en una sala de 121 sillas.
@@ -22,7 +22,7 @@ Este proyecto integra conocimientos de algoritmia, programación estructurada, v
 - Exportación de datos a archivos CSV.
 - Módulo de administración con reportes financieros y operativos.
 
-# 🌐 **Impacto esperado**
+#  **Impacto esperado**
 
 Se espera que LUCES-CÁMARA-UDEA se convierta en un modelo funcional de gestión cultural universitaria, que pueda ser escalado o adaptado a otros espacios institucionales. Además, representa una oportunidad para que los estudiantes apliquen sus conocimientos en un contexto real, desarrollen habilidades de trabajo en equipo, comunicación técnica y pensamiento lógico.
 
