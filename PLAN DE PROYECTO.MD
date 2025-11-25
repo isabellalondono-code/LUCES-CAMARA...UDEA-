@@ -48,10 +48,15 @@ Diseñar y desarrollar un programa de consola que permita gestionar las operacio
 - **Directos:** estudiantes, docentes y personal administrativo de la Universidad de Antioquia.  
 - **Indirectos:** público externo invitado en actividades especiales.  
 
-## 7. Recursos necesarios  
-- **Humanos:** equipo de gestión, docentes, estudiantes en práctica.  
-- **Tecnológicos:** proyectores, sistemas de sonido, equipos de RV/RA (futuros).  
-- **Financieros:** presupuesto de la Universidad de Antioquia, inversión inicial del equipo del proyecto, venta de boletas en funcionamiento.  
+## 7. Presupuesto y Herramientas 
+- **Presupuesto:** Equipo de trabajo de 4 estudiantes, de los cuales cada uno invertira un total de 70  horas en un periodo de 2 Meses , las cuales seran dedicadas a la practica y ejecución del proyecto. Para tener un total de 280 horas las cuales seran reconocidas como tiempo de formación y tienen un valor equivalente de 2 SMLV por integrante (no són en dinero real) 
+-**Herramientas tecnologicas:** Para la ejecucion de ested proyecto y con la finalidad de ser un programa agradable para el usuario se han utilizado las giquientes herramientas.
+•	Google Colab
+•	Python 3
+•	Markdown
+•	Git y GitHub
+•	Licencia MIT / Creative Commons
+
 
 ## 8. Cronograma general  
 1. **Planeación (2025):** diseño del modelo, definición de sala física y consecución de recursos.  
