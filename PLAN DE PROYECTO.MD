@@ -1,7 +1,7 @@
 # 🎬 Plan de Proyecto –   
 
 ## 1. Introducción  
- LUCES-CÁMARA, UDEA es un sistema desarrollado en Python desde consola, diseñado para gestionar de forma eficiente un espacio cinematográfico dentro de la Universidad de Antioquia. Este proyecto busca ofrecer a la comunidad universitaria —estudiantes, docentes, administrativos, oficiales internos y público externo— una experiencia organizada y accesible para reservar asientos, consultar funciones, generar facturas y visualizar reportes administrativos. 
+ LUCES-CÁMARA, UDEA es un sistema desarrollado en Python desde consola, diseñado para gestionar de forma eficiente un espacio cinematográfico dentro de la Universidad de Antioquia. Este proyecto busca ofrecer a la comunidad universitaria (estudiantes, docentes, administrativos, oficiales internos y público externo) una experiencia organizada y accesible para reservar asientos, consultar funciones, generar facturas y visualizar reportes administrativos. 
 
 ## 2. Justificación  
 El cine es un medio artístico, pedagógico y cultural que potencia el aprendizaje, la reflexión y la creatividad. Actualmente, la comunidad universitaria carece de un espacio especializado en proyección y formación cinematográfica.  
@@ -68,4 +68,4 @@ Indicadores de éxito:
 - Nivel de satisfacción de los asistentes y comunidad universitaria.  
 
 ## 10. Conclusión  
-LUCES-CÁMARA, UDEA sera quien abra las puertas a nuevas experiencias para la adquisicion de entradas y reservas para nuestro espacio cinematografico en la Universidad de Antioquia, ademas va a ser una gran oportunidad para los jovenes que quieran realizar sus practicas universitarias 
+LUCES-CÁMARA, UDEA  se convertira en un modelo funcional de gestión cultural universitaria, que pueda ser escalado o adaptado a otros espacios institucionales, sera un programa con una experiencia muy agradable para el usuario en el momento se realizar sus compras y reservas, ademas va a ser una gran oportunidad para los jovenes ir conviviendo con el mundo tecnologico, tambien servira como un apoyo para aquellos estudiantes que quieran realizar sus practicas universitarias.
