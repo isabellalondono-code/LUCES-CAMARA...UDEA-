@@ -1,7 +1,7 @@
 # 🎬 Plan de Proyecto –   
 
 ## 1. Introducción  
- es un espacio cultural, académico y tecnológico dentro de la Universidad de Antioquia, dedicado a la proyección y difusión del cine en todas sus formas y géneros. Su propósito es enriquecer la vida universitaria mediante una experiencia cinematográfica de calidad, accesible, diversa e inmersiva, que promueva el pensamiento crítico, la inclusión y el intercambio intjghfjhdl.  
+ LUCES-CÁMARA, UDEA es un sistema desarrollado en Python desde consola, diseñado para gestionar de forma eficiente un espacio cinematográfico dentro de la Universidad de Antioquia. Este proyecto busca ofrecer a la comunidad universitaria —estudiantes, docentes, administrativos, oficiales internos y público externo— una experiencia organizada y accesible para reservar asientos, consultar funciones, generar facturas y visualizar reportes administrativos. 
 
 ## 2. Justificación  
 El cine es un medio artístico, pedagógico y cultural que potencia el aprendizaje, la reflexión y la creatividad. Actualmente, la comunidad universitaria carece de un espacio especializado en proyección y formación cinematográfica.  
@@ -68,4 +68,4 @@ Indicadores de éxito:
 - Nivel de satisfacción de los asistentes y comunidad universitaria.  
 
 ## 10. Conclusión  
-CINEMATRIX será un referente universitario en cultura cinematográfica, innovación educativa y proyección artística. Su impacto trascenderá la proyección de películas, convirtiéndose en un espacio de encuentro, formación y oportunidades para los estudiantes de la Universidad de Antioquia.
+LUCES-CÁMARA, UDEA sera quien abra las puertas a nuevas experiencias para la adquisicion de entradas y reservas para nuestro espacio cinematografico en la Universidad de Antioquia, ademas va a ser una gran oportunidad para los jovenes que quieran realizar sus practicas universitarias 
