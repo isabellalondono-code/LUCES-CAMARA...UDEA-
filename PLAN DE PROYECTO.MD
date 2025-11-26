@@ -4,11 +4,13 @@
  LUCES-CÁMARA, UDEA es un sistema desarrollado en Python desde consola, diseñado para gestionar de forma eficiente un espacio cinematográfico dentro de la Universidad de Antioquia. Este proyecto busca ofrecer a la comunidad universitaria (estudiantes, docentes, administrativos, oficiales internos y público externo) una experiencia organizada y accesible para reservar asientos, consultar funciones, generar facturas y visualizar reportes administrativos. 
 
 ## 2. Justificación  
-El cine es un medio artístico, pedagógico y cultural que potencia el aprendizaje, la reflexión y la creatividad. Actualmente, la comunidad universitaria carece de un espacio especializado en proyección y formación cinematográfica.  
-CINEMATRIX busca llenar ese vacío, ofreciendo un cine universitario con visión académica, cultural y tecnológica, que permita:  
-- Enriquecer la vida estudiantil.  
-- Incentivar la creación artística y cinematográfica.  
-- Ofrecer oportunidades académicas y laborales para los estudiantes.  
+El desarrollo del proyecto “Cine, Cámaras y UdeA” surge de la necesidad de aplicar los conceptos fundamentales vistos en el curso de Algoritmia y Programación mediante la construcción de un sistema funcional, modular y completamente ejecutable. Crear un software que gestione usuarios, reservas y funciones de cine permite integrar de manera práctica temas como estructuras de datos, modularización, validación de información y manejo de flujos lógicos dentro de un programa real.
+
+Además, este proyecto nos permitió simular un caso cercano a situaciones del mundo laboral, donde es necesario organizar el código de forma ordenada, trabajar con diferentes módulos, garantizar la claridad del sistema, y documentar el proceso de manera profesional. Elegimos este enfoque porque representa un escenario cotidiano y entendible para cualquier usuario: un cine, con su sistema básico de reservas y administración.
+
+La implementación en Python y la organización del repositorio en GitHub se justifican porque ambas herramientas son ampliamente utilizadas en la industria del software. Python facilita el aprendizaje de estructuras lógicas, lectura del código y modularidad. GitHub, por su parte, nos permitió gestionar versiones, mantener ordenado el proyecto, y comprender cómo funciona un entorno de desarrollo más cercano a lo profesional, aun cuando al inicio fue un reto para nosotros.
+
+En conclusión, este proyecto se justifica tanto desde el punto de vista académico como práctico: consolida las bases de la programación, promueve el trabajo en equipo, fortalece habilidades técnicas esenciales y ofrece una solución funcional a un problema realista, demostrando el aprendizaje adquirido a lo largo del curso.
 
 ## 3. Objetivos  
 ### Objetivo general  
