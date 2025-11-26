@@ -40,11 +40,78 @@ Diseñar y desarrollar un programa de consola que permita gestionar las operacio
 - **No incluye:**  
  - Actividades fuera de nuestro enfoque cinemático
 
-## 5. Metas para el 2030  
-- **Presencia en todos los campus:** consolidar salas físicas y espacios virtuales que conecten a toda la comunidad universitaria.  
-- **Tecnología de vanguardia:** mejorar constantemente la experiencia audiovisual integrando realidad virtual (RV), realidad aumentada (RA) y sonido envolvente.  
-- **Diversidad y accesibilidad:** garantizar una programación inclusiva, multiformato y adaptada a diferentes públicos.  
-- **Impulso al talento y empleo estudiantil:** consolidar a CINEMATRIX como plataforma académica y laboral, donde los estudiantes puedan exhibir sus producciones y participar en su operación.  
+## 5. Metas 
+# 🎯 **Metas del Proyecto**
+
+Las metas del proyecto **Cine, Cámaras y UdeA** se diseñaron para lograr un sistema funcional, organizado y útil tanto para el usuario común como para la administración. Estas metas guiaron el desarrollo técnico, la estructura del repositorio y la implementación del código.
+
+---
+
+## 🟦 **1. Meta general**
+
+Desarrollar un sistema interactivo en consola que permita gestionar un cine universitario mediante operaciones como registro de usuarios, reservas, cancelaciones, consulta de funciones y acceso administrativo, aplicando los fundamentos de programación aprendidos durante el curso.
+
+---
+
+## 🟩 **2. Metas específicas**
+
+### ✔️ **2.1 Crear un sistema modular**
+Implementar el proyecto utilizando diferentes módulos (`main.py`, `usuarios.py`, `reservas.py`, `funciones.py`, `admin.py`, `datos.py`) para garantizar orden, claridad y facilidad de mantenimiento.
+
+---
+
+### ✔️ **2.2 Registrar usuarios correctamente**
+Desarrollar un módulo capaz de validar nombres, apellidos, documentos y tipos de usuario, asegurando que la información almacenada sea correcta y consistente.
+
+---
+
+### ✔️ **2.3 Gestionar reservas y cancelaciones**
+Permitir al usuario seleccionar asientos dentro de la matriz del cine, validar disponibilidad, registrar reservas, cancelarlas y actualizar la sala en tiempo real.
+
+---
+
+### ✔️ **2.4 Consultar la programación del fin de semana**
+Mostrar de manera clara y organizada las películas disponibles, simulando la cartelera de un cine real.
+
+---
+
+### ✔️ **2.5 Crear un panel administrativo**
+Implementar funciones que permitan visualizar estadísticas como:
+- Número total de reservas  
+- Cantidad de usuarios  
+- Total recaudado 💰  
+- Usuarios con más y menos reservas  
+- Listado general de usuarios  
+
+Esto permite simular el trabajo administrativo de un cine real.
+
+---
+
+### ✔️ **2.6 Organizar el repositorio en GitHub**
+Estructurar el proyecto con carpetas claras:
+- `/src` → código fuente  
+- `/doc` → documentos del proyecto  
+- Archivos de requisitos, visión, planeación y manual de usuario  
+
+Garantizando buenas prácticas de documentación y entrega.
+
+---
+
+### ✔️ **2.7 Elaborar documentación clara**
+Desarrollar manuales, visión, justificación, plan de proyecto, metas, versionado y README para que cualquier persona pueda entender cómo usar o modificar el sistema.
+
+---
+
+## 🟧 **2.8 Trabajar colaborativamente**
+Fomentar el trabajo en equipo mediante reuniones, asignación de responsabilidades y uso básico de GitHub para manejar versiones del proyecto.
+
+---
+
+## 🟫 **2.9 Presentar un producto funcional y sustentable**
+Entregar un sistema que pueda ser ejecutado sin errores, con menús claros, navegación sencilla, y que cumpla con todos los requerimientos planteados por el docente.
+
+---
+
 
 ## 6. Beneficiarios  
 - **Directos:** estudiantes, docentes y personal administrativo de la Universidad de Antioquia.  
