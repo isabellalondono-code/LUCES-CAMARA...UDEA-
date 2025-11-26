@@ -46,13 +46,13 @@ Las metas del proyecto **Cine, Cámaras y UdeA** se diseñaron para lograr un si
 
 ---
 
-## 🟦 **1. Meta general**
+##  **1. Meta general**
 
 Desarrollar un sistema interactivo en consola que permita gestionar un cine universitario mediante operaciones como registro de usuarios, reservas, cancelaciones, consulta de funciones y acceso administrativo, aplicando los fundamentos de programación aprendidos durante el curso.
 
 ---
 
-## 🟩 **2. Metas específicas**
+##  **2. Metas específicas**
 
 ### ✔️ **2.1 Crear un sistema modular**
 Implementar el proyecto utilizando diferentes módulos (`main.py`, `usuarios.py`, `reservas.py`, `funciones.py`, `admin.py`, `datos.py`) para garantizar orden, claridad y facilidad de mantenimiento.
@@ -101,12 +101,12 @@ Desarrollar manuales, visión, justificación, plan de proyecto, metas, versiona
 
 ---
 
-## 🟧 **2.8 Trabajar colaborativamente**
+##  **2.8 Trabajar colaborativamente**
 Fomentar el trabajo en equipo mediante reuniones, asignación de responsabilidades y uso básico de GitHub para manejar versiones del proyecto.
 
 ---
 
-## 🟫 **2.9 Presentar un producto funcional y sustentable**
+##  **2.9 Presentar un producto funcional y sustentable**
 Entregar un sistema que pueda ser ejecutado sin errores, con menús claros, navegación sencilla, y que cumpla con todos los requerimientos planteados por el docente.
 
 ---
@@ -121,19 +121,97 @@ Entregar un sistema que pueda ser ejecutado sin errores, con menús claros, nave
 
   **Herramientas tecnologicas:** Para la ejecucion de ested proyecto y con la finalidad de ser un programa agradable para el usuario se han utilizado las siguientes herramientas; Gogle Colab,Python 3, Markdown, Git y Github, licencia MIT/ Creative Commons
 
+## 📊 **Presupuesto del Proyecto**
+
+El presente presupuesto contempla el tiempo de trabajo, dedicación académica y herramientas tecnológicas utilizadas durante el desarrollo del sistema **Cine, Cámaras y UdeA**.  
+Este presupuesto NO representa dinero real, sino una valorización académica equivalente, según los lineamientos del curso.
+
+---
+
+### 🧑‍🤝‍🧑 **Equipo de Trabajo**
+
+| Integrante                         | Rol / Participación |
+|------------------------------------|----------------------|
+| **Isabella Londoño**               | Desarrollo – Documentación |
+| **Julián Alberto Gómez Agudelo**   | Análisis – Apoyo técnico |
+| **Michael Hincapié Alzate**        | Programación – Pruebas |
+| **Anderson Arboleda Duque**        | Coordinación – Gestión |
+
+---
+
+### ⏳ **Tiempo de Dedicación**
+
+Cada integrante invirtió:
+
+- **70 horas de trabajo**
+- Distribuidas en un periodo de **2 meses**
+- Para un total acumulado de:
+
+**70 horas × 4 integrantes = 280 horas invertidas**
+
+Este tiempo corresponde a actividades como:
+
+- Diseño del sistema  
+- Escritura de código  
+- Pruebas del programa  
+- Revisión grupal  
+- Documentación  
+- Subida del proyecto a GitHub  
+
+---
+
+### 💰 **Valoración Académica del Trabajo**
+
+Aunque NO es dinero real, se estima un valor académico equivalente a:
+
+| Integrante | Horas trabajadas | Valor simbólico (equivalente) |
+|-----------|------------------|--------------------------------|
+| Isabella  | 70 h             | **2 SMLV** |
+| Julián    | 70 h             | **2 SMLV** |
+| Michael   | 70 h             | **2 SMLV** |
+| Anderson  | 70 h             | **2 SMLV** |
+
+> 🔹 *Esta valorización se usa únicamente con fines educativos, como reconocimiento del esfuerzo realizado en el desarrollo del proyecto.*
+
+---
+
+### 🖥️ **Herramientas Tecnológicas Utilizadas**
+
+| Herramienta            | Uso Principal |
+|------------------------|---------------|
+| **Google Colab**       | Desarrollo del código en Python |
+| **Python 3**           | Lenguaje de programación principal |
+| **Markdown**           | Documentación técnica del proyecto |
+| **Git**                | Control de versiones |
+| **GitHub**             | Gestión del repositorio y entregas |
+| **MIT / Creative Commons** | Licencias abiertas utilizadas para el despliegue y versiones |
+
+---
+
+### 📌 **Resumen del Presupuesto**
+
+| Concepto                     | Cantidad          |
+|------------------------------|--------------------|
+| Integrantes                  | **4**              |
+| Horas totales trabajadas     | **280 horas**      |
+| Valor simbólico por integrante | **2 SMLV**       |
+| Total SMLV simbólicos        | **8 SMLV**         |
+| Herramientas utilizadas      | **5 herramientas tecnológicas** |
+
+---
+
+### ✔️ **Conclusión del Presupuesto**
+
+El proyecto fue desarrollado bajo una estructura colaborativa, con una inversión total de **280 horas** de trabajo académico, apoyado por herramientas gratuitas y de código abierto.  
+La valoración del proyecto en SMLV es únicamente representativa y se utiliza para efectos formativos dentro de la asignatura.
 
 
-## 8. Cronograma general  
-1. **Planeación (2025):** diseño del modelo, definición de sala física y consecución de recursos.  
-2. **Implementación (2026):** apertura de la primera sala de cine universitaria con programación académica y cultural.  
-3. **Consolidación (2027-2030):** expansión a todos los campus, implementación de tecnologías inmersivas y fortalecimiento de las oportunidades estudiantiles.  
-
-## 9. Evaluación y seguimiento  
+## 8. Evaluación y seguimiento  
 Indicadores de éxito:  
 - Número de proyecciones realizadas y asistencia promedio.  
 - Cantidad de producciones estudiantiles exhibidas.  
 - Empleos y prácticas generadas para estudiantes.  
 - Nivel de satisfacción de los asistentes y comunidad universitaria.  
 
-## 10. Conclusión  
+## 9. Conclusión  
 LUCES-CÁMARA, UDEA  se convertira en un modelo funcional de gestión cultural universitaria, que pueda ser escalado o adaptado a otros espacios institucionales, sera un programa con una experiencia muy agradable para el usuario en el momento se realizar sus compras y reservas, ademas va a ser una gran oportunidad para los jovenes ir conviviendo con el mundo tecnologico, tambien servira como un apoyo para aquellos estudiantes que quieran realizar sus practicas universitarias.
