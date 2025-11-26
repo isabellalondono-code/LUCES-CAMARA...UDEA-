@@ -1,0 +1,192 @@
+🎬 MANUAL DE USUARIO — Cine, Cámaras y UdeA
+🟦 1. Introducción
+
+Este manual explica cómo usar el sistema Cine, Cámaras y UdeA, desarrollado como proyecto final del curso Algoritmia y Programación.
+El programa permite:
+
+Registrar usuarios
+
+Reservar asientos
+
+Cancelar reservas
+
+Consultar funciones del fin de semana
+
+Acceder al módulo administrativo
+
+Visualizar la sala del cine
+
+El sistema funciona desde consola y no requiere conocimientos previos de programación.
+
+🟩 2. Requisitos del Sistema
+
+Para ejecutar el programa necesitas:
+
+Python 3.8 o superior
+
+Acceso a una terminal o consola
+
+Los archivos del proyecto descargados desde GitHub
+
+(Opcional) Visual Studio Code o Google Colab
+
+🟨 3. Cómo ejecutar el programa
+Si usas tu computador
+
+Descarga el repositorio desde GitHub
+
+Botón verde Code → Download ZIP
+
+Descomprime la carpeta
+
+Abre una terminal dentro de la carpeta src:
+
+cd ruta/del/proyecto/src
+
+
+Ejecuta:
+
+python main.py
+
+Si usas Google Colab
+
+Sube todos los archivos .py
+
+Ejecuta:
+
+!python main.py
+
+🟪 4. Menú Principal
+
+Al abrir el programa, verás:
+
+========== CINE, CÁMARAS Y UDEA ==========
+1. Registrar Usuario
+2. Registrar Reserva
+3. Cancelar Reserva
+4. Consultar Funciones Fin de Semana
+5. Administrador
+6. Salir
+
+
+Escribe el número según la acción que deseas realizar.
+
+🟧 5. Registrar Usuario
+
+El sistema solicitará:
+
+Nombre
+
+Apellido
+
+Documento
+
+Tipo de usuario:
+
+Estudiante
+
+Docente
+
+Administrativo
+
+Oficial Interno
+
+Externo
+
+Si el registro es exitoso, aparecerá:
+
+✔ Usuario registrado correctamente.
+
+🟦 6. Registrar Reserva
+
+Ingresa tu documento
+
+Si existes como usuario, verás la sala así:
+
+O = disponible
+X = ocupado
+
+
+Escribe un asiento, ejemplo:
+
+A5
+
+
+Si está libre, la reserva se confirma:
+
+✔ Reserva realizada
+Asiento: A5
+Valor: $7000
+
+🟥 7. Cancelar Reserva
+
+Ingresa tu documento
+
+El sistema mostrará tus reservas
+
+Escribe el asiento que quieres cancelar
+
+La silla volverá a estar disponible
+
+Mensaje final:
+
+✔ Reserva cancelada correctamente.
+
+🟩 8. Consultar Funciones del Fin de Semana
+
+Muestra la cartelera:
+
+📅 Sábado | 🕒 3:00 PM | 🎬 Interestelar
+📅 Sábado | 🕒 6:00 PM | 🎬 Interstate 99
+📅 Domingo | 🕒 2:00 PM | 🎬 Cazafantasmas
+
+🟪 9. Panel Administrativo
+
+Acceso:
+
+Usuario: admin
+
+Contraseña: 1234
+
+Funciones disponibles:
+
+Total de reservas
+
+Total recaudado
+
+Total de usuarios
+
+Usuarios con más y menos reservas
+
+Cantidad total de tiquetes
+
+Ejemplo:
+
+Total reservas: 5
+Total recaudado: $32000
+
+🟫 10. Salir del Programa
+
+Selecciona:
+
+6. Salir
+
+
+Mensaje final:
+
+Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego!
+
+🟦 11. Equipo de Desarrollo
+
+Proyecto realizado por:
+
+Juilian 
+
+Isabella Londoño
+
+Michael Hincapié
+
+Anderson Arboleda
+
+Universidad de Antioquia — Ingeniería Industrial
+Algoritmia y Programación — 2025-2
