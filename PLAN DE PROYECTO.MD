@@ -132,10 +132,10 @@ Este presupuesto NO representa dinero real, sino una valorización académica eq
 
 | Integrante                         | Rol / Participación |
 |------------------------------------|----------------------|
-| **Isabella Londoño**               | Desarrollo – Documentación |
-| **Julián Alberto Gómez Agudelo**   | Análisis – Apoyo técnico |
-| **Michael Hincapié Alzate**        | Programación – Pruebas |
-| **Anderson Arboleda Duque**        | Coordinación – Gestión |
+| **Isabella Londoño**               | Lider |
+| **Julián Alberto Gómez Agudelo**   | Arquitecto del Software |
+| **Michael Hincapié Alzate**        | Desarrollador |
+| **Anderson Arboleda Duque**        | Documentación & QA |
 
 ---
 
