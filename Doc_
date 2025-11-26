@@ -1,64 +1,39 @@
-🎬 MANUAL DE USUARIO — Cine, Cámaras y UdeA
-🟦 1. Introducción
+🎬 **MANUAL DE USUARIO — Cine, Cámaras y UdeA**
 
-Este manual explica cómo usar el sistema Cine, Cámaras y UdeA, desarrollado como proyecto final del curso Algoritmia y Programación.
-El programa permite:
+##🟦 1. Introducción
+El siguiente manual de usuario explica el funcionamiento del proyecto Cine, Cámaras y UdeA, un sistema desarrollado para gestionar usuarios, reservas, funciones de cine y estadísticas administrativas.
+El objetivo es guiar de forma clara a cualquier persona que use el programa desde la consola.
 
-Registrar usuarios
+2. Requisitos del Sistema
 
-Reservar asientos
-
-Cancelar reservas
-
-Consultar funciones del fin de semana
-
-Acceder al módulo administrativo
-
-Visualizar la sala del cine
-
-El sistema funciona desde consola y no requiere conocimientos previos de programación.
-
-🟩 2. Requisitos del Sistema
-
-Para ejecutar el programa necesitas:
+Para ejecutar el programa se necesita:
 
 Python 3.8 o superior
 
-Acceso a una terminal o consola
+Consola o terminal (Windows, Mac o Linux)
 
-Los archivos del proyecto descargados desde GitHub
+Carpeta del proyecto con todos los archivos dentro de src
 
-(Opcional) Visual Studio Code o Google Colab
+Archivo principal: main.py
 
-🟨 3. Cómo ejecutar el programa
-Si usas tu computador
+3. Cómo ejecutar el programa
 
-Descarga el repositorio desde GitHub
+Abrir la carpeta del proyecto
 
-Botón verde Code → Download ZIP
+Entrar a la carpeta src
 
-Descomprime la carpeta
+Abrir una terminal dentro de esa carpeta
 
-Abre una terminal dentro de la carpeta src:
-
-cd ruta/del/proyecto/src
-
-
-Ejecuta:
+Ejecutar el comando:
 
 python main.py
 
-Si usas Google Colab
 
-Sube todos los archivos .py
+Una vez ejecutado, aparecerá el menú del cine.
 
-Ejecuta:
+4. Menú Principal
 
-!python main.py
-
-🟪 4. Menú Principal
-
-Al abrir el programa, verás:
+Al iniciar, verás en pantalla:
 
 ========== CINE, CÁMARAS Y UDEA ==========
 1. Registrar Usuario
@@ -69,11 +44,12 @@ Al abrir el programa, verás:
 6. Salir
 
 
-Escribe el número según la acción que deseas realizar.
+El usuario debe escribir el número de la opción que desea usar.
 
-🟧 5. Registrar Usuario
+5. Registrar Usuario
 
-El sistema solicitará:
+En esta sección podrás crear un nuevo usuario.
+El sistema pedirá:
 
 Nombre
 
@@ -83,64 +59,69 @@ Documento
 
 Tipo de usuario:
 
-Estudiante
+estudiante
 
-Docente
+docente
 
-Administrativo
+administrativo
 
-Oficial Interno
+oficial
 
-Externo
+externo
 
-Si el registro es exitoso, aparecerá:
+Si los datos son correctos, aparecerá:
 
 ✔ Usuario registrado correctamente.
 
-🟦 6. Registrar Reserva
+6. Registrar Reserva
 
-Ingresa tu documento
+Aquí podrás reservar un asiento en la sala.
 
-Si existes como usuario, verás la sala así:
+Pasos:
 
-O = disponible
+Ingresar el documento del usuario
+
+La sala aparecerá con los asientos:
+
+O = libre
+
 X = ocupado
 
+El usuario escribe el asiento (ejemplo: A5)
 
-Escribe un asiento, ejemplo:
+Si está disponible, la reserva se completa
 
-A5
+Resultado:
 
+✔ Reserva realizada. Asiento: A5, Valor: $xxxx
 
-Si está libre, la reserva se confirma:
+7. Cancelar Reserva
 
-✔ Reserva realizada
-Asiento: A5
-Valor: $7000
+Permite anular una reserva existente.
 
-🟥 7. Cancelar Reserva
+Pasos:
 
-Ingresa tu documento
+Ingresar el documento
 
-El sistema mostrará tus reservas
+El sistema mostrará las reservas del usuario
 
-Escribe el asiento que quieres cancelar
+Seleccionar cuál se desea cancelar
 
-La silla volverá a estar disponible
+El asiento vuelve a estar libre
 
 Mensaje final:
 
 ✔ Reserva cancelada correctamente.
 
-🟩 8. Consultar Funciones del Fin de Semana
+8. Consultar Funciones del Fin de Semana
 
-Muestra la cartelera:
+Muestra la programación:
 
 📅 Sábado | 🕒 3:00 PM | 🎬 Interestelar
 📅 Sábado | 🕒 6:00 PM | 🎬 Interstate 99
 📅 Domingo | 🕒 2:00 PM | 🎬 Cazafantasmas
 
-🟪 9. Panel Administrativo
+9. Panel Administrativo
 
 Acceso:
 
@@ -148,39 +129,38 @@ Usuario: admin
 
 Contraseña: 1234
 
-Funciones disponibles:
+El administrador puede ver:
 
 Total de reservas
 
-Total recaudado
-
 Total de usuarios
 
-Usuarios con más y menos reservas
+Total recaudado
 
-Cantidad total de tiquetes
+Usuario con más reservas
+
+Usuario con menos reservas
 
 Ejemplo:
 
-Total reservas: 5
-Total recaudado: $32000
+✔ Bienvenido administrador
+Total reservas: 12
+Total usuarios: 7
 
-🟫 10. Salir del Programa
+10. Salir del Programa
 
-Selecciona:
+Para cerrar, selecciona:
 
 6. Salir
 
 
-Mensaje final:
+El programa mostrará:
 
 Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego!
 
-🟦 11. Equipo de Desarrollo
+11. Equipo de Desarrollo
 
 Proyecto realizado por:
-
-Juilian 
 
 Isabella Londoño
 
@@ -188,5 +168,6 @@ Michael Hincapié
 
 Anderson Arboleda
 
-Universidad de Antioquia — Ingeniería Industrial
-Algoritmia y Programación — 2025-2
+Universidad de Antioquia
+Facultad de Ingeniería
+Algoritmia y Programación – 2025-2
