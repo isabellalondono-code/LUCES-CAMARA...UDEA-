@@ -215,3 +215,22 @@ Indicadores de éxito:
 
 ## 9. Conclusión  
 LUCES-CÁMARA, UDEA  se convertira en un modelo funcional de gestión cultural universitaria, que pueda ser escalado o adaptado a otros espacios institucionales, sera un programa con una experiencia muy agradable para el usuario en el momento se realizar sus compras y reservas, ademas va a ser una gran oportunidad para los jovenes ir conviviendo con el mundo tecnologico, tambien servira como un apoyo para aquellos estudiantes que quieran realizar sus practicas universitarias.
+
+
+## 🚀 **Cronograma y Actas**
+
+En este apartado se presentan el **cronograma de trabajo** y las **actas oficiales del proyecto**, las cuales documentan los acuerdos, compromisos y responsabilidades asumidas por los integrantes del equipo durante el desarrollo del proyecto *Cine, Cámaras y UdeA*.
+
+🗂️ **Cronograma:**  
+Representa la planeación temporal del proyecto, indicando las tareas principales, su duración estimada y el periodo en el que fueron ejecutadas. Este permite evidenciar la organización del equipo, la distribución de actividades y el cumplimiento progresivo de los objetivos establecidos.
+
+📝 **Actas del proyecto:**  
+Aquí se incluyen las actas de:
+- **Acta de Compromiso**  
+- **Acta de Responsabilidad**  
+- **Acta de Entendimiento**  
+
+Estas actas sirven como respaldo formal del trabajo colaborativo, dejando constancia de los acuerdos internos del grupo, la distribución de funciones, la comunicación entre los miembros y los compromisos asumidos en cada etapa del proceso.
+
+En conjunto, el cronograma y las actas permiten demostrar la **estructura organizativa del proyecto**, así como la **metodología de trabajo** empleada por el equipo para garantizar un desarrollo ordenado, transparente y eficiente.
+
