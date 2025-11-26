@@ -1,11 +1,6 @@
+🎬 ** MANUAL DE USUARIO — Cine, Cámaras y UdeA 
 
-## 👤 Julián Alberto Gómez Agudelo
-
-### 🧑‍🎓 Programa académico  
-Ingeniería Industrial — Universidad de Antioquia  
-Semestre actual: 4° semestre🎬 ** MANUAL DE USUARIO — Cine, Cámaras y UdeA 
-
-##🟦 1. Introducción
+## 1. Introducción
 El siguiente manual de usuario explica el funcionamiento del proyecto Cine, Cámaras y UdeA, un sistema desarrollado para gestionar usuarios, reservas, funciones de cine y estadísticas administrativas.
 El objetivo es guiar de forma clara a cualquier persona que use el programa desde la consola.
 
@@ -46,23 +41,15 @@ El usuario debe escribir el número de la opción que desea usar.
 En esta sección podrás crear un nuevo usuario.
 El sistema pedirá:
 
-Nombre
-
-Apellido
-
-Documento
-
-Tipo de usuario:
-
-estudiante
-
-docente
-
-administrativo
-
-oficial
-
-externo
+--Nombre
+--Apellido
+-Documento
+-Tipo de usuario:
+-estudiante
+-docente
+-administrativo
+-oficial
+-externo
 
 Si los datos son correctos, aparecerá:
 
