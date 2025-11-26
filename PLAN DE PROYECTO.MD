@@ -40,8 +40,7 @@ Diseñar y desarrollar un programa de consola que permita gestionar las operacio
 - **No incluye:**  
  - Actividades fuera de nuestro enfoque cinemático
 
-## 5. Metas 
-# 🎯 **Metas del Proyecto**
+## 🎯5. Metas 
 
 Las metas del proyecto **Cine, Cámaras y UdeA** se diseñaron para lograr un sistema funcional, organizado y útil tanto para el usuario común como para la administración. Estas metas guiaron el desarrollo técnico, la estructura del repositorio y la implementación del código.
 
