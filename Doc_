@@ -6,29 +6,19 @@ El objetivo es guiar de forma clara a cualquier persona que use el programa desd
 
 2. Requisitos del Sistema
 
-Para ejecutar el programa se necesita:
-
-Python 3.8 o superior
-
-Consola o terminal (Windows, Mac o Linux)
-
-Carpeta del proyecto con todos los archivos dentro de src
-
-Archivo principal: main.py
+-Para ejecutar el programa se necesita:
+-Python 3.8 o superior
+-Consola o terminal (Windows, Mac o Linux)
+-Carpeta del proyecto con todos los archivos dentro de src
+-Archivo principal: main.py
 
 3. Cómo ejecutar el programa
 
 Abrir la carpeta del proyecto
-
 Entrar a la carpeta src
-
 Abrir una terminal dentro de esa carpeta
-
 Ejecutar el comando:
-
 python main.py
-
-
 Una vez ejecutado, aparecerá el menú del cine.
 
 4. Menú Principal
@@ -160,14 +150,4 @@ Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego!
 
 11. Equipo de Desarrollo
 
-Proyecto realizado por:
-
-Isabella Londoño
-
-Michael Hincapié
-
-Anderson Arboleda
-
-Universidad de Antioquia
-Facultad de Ingeniería
-Algoritmia y Programación – 2025-2
+P
