@@ -1,4 +1,10 @@
+# 🎬 Plan de Proyecto –   
 
+## 1. Introducción  
+ LUCES-CÁMARA, UDEA es un sistema desarrollado en Python desde consola, diseñado para gestionar de forma eficiente un espacio cinematográfico dentro de la Universidad de Antioquia. Este proyecto busca ofrecer a la comunidad universitaria (estudiantes, docentes, administrativos, oficiales internos y público externo) una experiencia organizada y accesible para reservar asientos, consultar funciones, generar facturas y visualizar reportes administrativos. 
+
+## 2. Justificación  
+El desarrollo del proyecto “Cine, Cámaras y UdeA” surge de la necesidad de aplicar los conceptos fundamentales vistos en el curso de Algoritmia y Programación mediante la construcción de un sistema funcional, modular y completamente ejecutable. Crear un software que gestione usuarios, reservas y funciones de cine permite integrar de manera práctica temas como estructuras de datos, modularización, validación de información y manejo de flujos lógicos dentro de un programa real.
 ## 🚀 **Cronograma y Actas**
 
 En este apartado se presentan el **cronograma de trabajo** y las **actas oficiales del proyecto**, las cuales documentan los acuerdos, compromisos y responsabilidades asumidas por los integrantes del equipo durante el desarrollo del proyecto *Cine, Cámaras y UdeA*.
