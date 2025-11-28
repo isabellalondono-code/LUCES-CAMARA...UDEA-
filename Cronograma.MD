@@ -23,7 +23,7 @@ Aquí se incluyen las actas de:
 - **Acta de Compromiso y Responsabilidad**    
 - **Acta de Entendimiento**  
 
-[👉 Ver Acta de Entendimiento](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20COMPROMISO%20Y%20RESPONSABILIDAD.pdf)
+[👉 Ver Acta de Entendimiento](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20ENTENDIMIENTO_2.pdf)
 
 [👉 Compromiso y Responsabilidad ](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20COMPROMISO%20Y%20RESPONSABILIDAD.pdf)
 
