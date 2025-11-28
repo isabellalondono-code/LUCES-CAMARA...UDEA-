@@ -1,30 +1,60 @@
-🎬 **MANUAL DE USUARIO — Cine, Cámaras y UdeA** 
+📘 Manual de Usuario — Cine, Cámaras y UdeA 🎬✨
+🎯 1. Introducción
 
-## 1. Introducción
-El siguiente manual de usuario explica el funcionamiento del proyecto Cine, Cámaras y UdeA,
-un sistema desarrollado para gestionar usuarios, reservas, funciones de cine y estadísticas administrativas.
-El objetivo es guiar de forma clara a cualquier persona que use el programa desde la consola.
+El presente Manual de Usuario tiene como objetivo explicar de manera clara, sencilla y visual el funcionamiento del sistema Cine, Cámaras y UdeA, desarrollado como proyecto académico para el curso de Algoritmia y Programación.
 
-2. Requisitos del Sistema
+El sistema permite:
 
--Para ejecutar el programa se necesita:
--Python 3.8 o superior
--Consola o terminal (Windows, Mac o Linux)
--Carpeta del proyecto con todos los archivos dentro de src
--Archivo principal: main.py
+📝 Registrar usuarios
 
-3. Cómo ejecutar el programa
+🎟️ Realizar reservas de sillas
 
-Abrir la carpeta del proyecto
-Entrar a la carpeta src
-Abrir una terminal dentro de esa carpeta
-Ejecutar el comando:
+❌ Cancelar reservas
+
+🎬 Consultar funciones del fin de semana
+
+🛠️ Acceder al panel administrativo
+
+🪑 Visualizar el estado de la sala
+
+Este manual está dirigido a cualquier persona que desee utilizar la aplicación sin conocimientos técnicos.
+
+💻 2. Requisitos del Sistema
+
+Para ejecutar el programa necesitas:
+
+🧩 Python 3.8 o superior
+
+🪟 Windows, macOS o Linux
+
+📁 Archivos del proyecto ubicados dentro de la carpeta src
+
+🔧 Consola o terminal para ejecutar el archivo principal
+
+▶️ 3. Cómo ejecutar el programa
+
+Sigue los siguientes pasos:
+
+📥 Descarga el repositorio desde GitHub:
+Code → Download ZIP
+
+📂 Descomprime y abre la carpeta del proyecto.
+
+🖥️ Abre la terminal dentro de la carpeta src:
+
+cd src
+
+
+▶️ Ejecuta el programa principal:
+
 python main.py
-Una vez ejecutado, aparecerá el menú del cine.
 
-4. Menú Principal
 
-Al iniciar, verás en pantalla:
+Aparecerá inmediatamente el menú principal.
+
+🎬 4. Menú Principal
+
+Al iniciar el sistema verás:
 
 ========== CINE, CÁMARAS Y UDEA ==========
 1. Registrar Usuario
@@ -35,112 +65,122 @@ Al iniciar, verás en pantalla:
 6. Salir
 
 
-El usuario debe escribir el número de la opción que desea usar.
+Puedes seleccionar cualquier opción escribiendo el número correspondiente.
 
-5. Registrar Usuario
+🧑‍💼 5. Registrar Usuario
 
-En esta sección podrás crear un nuevo usuario.
-El sistema pedirá:
+Esta opción permite registrar un nuevo usuario en el sistema.
 
---Nombre
---Apellido
--Documento
--Tipo de usuario:
--estudiante
--docente
--administrativo
--oficial
--externo
+El programa solicita:
 
-Si los datos son correctos, aparecerá:
+🧍 Nombre
+
+🧍‍♂️ Apellido
+
+🪪 Documento
+
+🏷️ Tipo de usuario
+
+estudiante
+
+docente
+
+administrativo
+
+oficial interno
+
+externo
+
+Si los datos son válidos, aparece:
 
 ✔ Usuario registrado correctamente.
 
-6. Registrar Reserva
+🎟️ 6. Registrar Reserva
 
-Aquí podrás reservar un asiento en la sala.
+Para hacer una reserva:
 
-Pasos:
+Ingresa el documento del usuario ya registrado
 
-Ingresar el documento del usuario
+Se mostrará la sala con asientos disponibles (O) y ocupados (X)
 
-La sala aparecerá con los asientos:
+Selecciona un asiento (Ej: A5)
 
-O = libre
+Si está libre, el sistema lo reserva
 
-X = ocupado
+Ejemplo de confirmación:
 
-El usuario escribe el asiento (ejemplo: A5)
+✔ Reserva realizada exitosamente.
+Asiento: A5
+Valor: $7000
 
-Si está disponible, la reserva se completa
+❌ 7. Cancelar Reserva
+
+Permite cancelar una reserva activa:
+
+Ingresar documento del usuario
+
+Seleccionar asiento a cancelar
+
+El sistema libera el asiento
 
 Resultado:
 
-✔ Reserva realizada. Asiento: A5, Valor: $xxxx
-
-7. Cancelar Reserva
-
-Permite anular una reserva existente.
-
-Pasos:
-
-Ingresar el documento
-
-El sistema mostrará las reservas del usuario
-
-Seleccionar cuál se desea cancelar
-
-El asiento vuelve a estar libre
-
-Mensaje final:
-
 ✔ Reserva cancelada correctamente.
 
-8. Consultar Funciones del Fin de Semana
+🎞️ 8. Consultar Funciones del Fin de Semana
 
-Muestra la programación:
+Muestra la cartelera disponible:
 
-📅 Sábado | 🕒 3:00 PM | 🎬 Zootopia 2
-📅 Sábado | 🕒 6:00 PM | 🎬 Los ilusionistas 3
-📅 Domingo | 🕒 2:00 PM | 🎬 Depredador
+📅 Sábado | 🕒 3:00 PM | 🎬 Interestelar
+📅 Sábado | 🕒 6:00 PM | 🎬 Interstate 99
+📅 Domingo | 🕒 2:00 PM | 🎬 Cazafantasmas
 
-9. Panel Administrativo
+🛠️ 9. Panel Administrativo
 
-Acceso:
+Para acceder:
 
 Usuario: admin
 
 Contraseña: 1234
 
-El administrador puede ver:
+El sistema muestra:
 
-Total de reservas
+📊 Total de reservas
 
-Total de usuarios
+🎫 Total de tiquetes vendidos
 
-Total recaudado
+💰 Total recaudado
 
-Usuario con más reservas
+📅 Promedio por día
 
-Usuario con menos reservas
+🧑‍🤝‍🧑 Lista de usuarios
 
-Ejemplo:
+🏆 Usuario con más reservas
 
-✔ Bienvenido administrador
-Total reservas: 12
-Total usuarios: 7
+💤 Usuario con menos reservas
 
-10. Salir del Programa
+🚪 10. Salir del sistema
 
-Para cerrar, selecciona:
+Desde el menú principal selecciona:
 
 6. Salir
 
 
-El programa mostrará:
+El sistema mostrará:
 
-Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego!
+Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego! 🍿
 
-11. Equipo de Desarrollo
+👩‍💻 11. Equipo de Desarrollo
 
-P
+Proyecto realizado por:
+
+👩‍🎓 Isabella Londoño
+
+👨‍🎓 Julián Alberto Gómez Agudelo
+
+👨‍🎓 Michael Hincapié Alzate
+
+👨‍🎓 Anderson Arboleda Duque
+
+Facultad de Ingeniería – Universidad de Antioquia
+Semestre 2025-2
