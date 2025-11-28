@@ -8,39 +8,50 @@ El presente Manual de Usuario tiene como objetivo explicar de manera clara, senc
 El sistema permite:
 
 -📝 Registrar usuarios
+
 -🎟️ Realizar reservas de sillas
+
 -❌ Cancelar reservas
+
 -🎬 Consultar funciones del fin de semana
+
 -🛠️ Acceder al panel administrativo
+
 -🪑 Visualizar el estado de la sala
 
 Este manual está dirigido a cualquier persona que desee utilizar la aplicación sin conocimientos técnicos.
 
-💻 2. Requisitos del Sistema
+💻 **2. Requisitos del Sistema**
 
 Para ejecutar el programa necesitas:
 
 -🧩 Python 3.8 o superior
+
 -🪟 Windows, macOS o Linux
+
 -📁 Archivos del proyecto ubicados dentro de la carpeta src
+
 -🔧 Consola o terminal para ejecutar el archivo principal
 
-▶️ 3. Cómo ejecutar el programa
+▶️ **3. Cómo ejecutar el programa**
 
 Sigue los siguientes pasos:
 
 -📥 Descarga el repositorio desde GitHub:
 Code → Download ZIP
+
 -📂 Descomprime y abre la carpeta del proyecto.
+
 -🖥️ Abre la terminal dentro de la carpeta src:
+
 -▶️ Ejecuta el programa principal:
 
 -python main.py
 -Aparecerá inmediatamente el menú principal.
 
-🎬 4. Menú Principal
+🎬**4. Menú Principal**
 
-Al iniciar el sistema verás:
+**Al iniciar el sistema verás:**
 
 ========== CINE, CÁMARAS Y UDEA ==========
 1. Registrar Usuario
@@ -53,7 +64,7 @@ Al iniciar el sistema verás:
 
 Puedes seleccionar cualquier opción escribiendo el número correspondiente.
 
-🧑‍💼 5. Registrar Usuario
+🧑‍💼 **5. Registrar Usuario**
 
 Esta opción permite registrar un nuevo usuario en el sistema.
 
@@ -73,7 +84,7 @@ Si los datos son válidos, aparece:
 
 -✔ Usuario registrado correctamente.
 
-🎟️ 6. Registrar Reserva
+🎟️ **6. Registrar Reserva**
 
 Para hacer una reserva:
 
@@ -87,7 +98,7 @@ Para hacer una reserva:
 Asiento: A5
 Valor: $7000
 
-❌ 7. Cancelar Reserva
+❌ ¿**7. Cancelar Reserva**
 
 -Permite cancelar una reserva activa:
 
@@ -98,7 +109,7 @@ Valor: $7000
 
 ✔ Reserva cancelada correctamente.
 
-🎞️ 8. Consultar Funciones del Fin de Semana
+🎞️ **8. Consultar Funciones del Fin de Semana**
 
 Muestra la cartelera disponible:
 
@@ -106,7 +117,7 @@ Muestra la cartelera disponible:
 📅 Sábado | 🕒 6:00 PM | 🎬 Interstate 99
 📅 Domingo | 🕒 2:00 PM | 🎬 Cazafantasmas
 
-🛠️ 9. Panel Administrativo
+🛠️ **9. Panel Administrativo**
 
 Para acceder:
 
@@ -123,11 +134,11 @@ El sistema muestra:
 -🏆 Usuario con más reservas
 -💤 Usuario con menos reservas
 
-🚪 10. Salir del sistema
+🚪 **10. Salir del sistema**
 
 -Desde el menú principal selecciona:
 
-6. Salir
+**6. Salir**
 
 
 El sistema mostrará:
