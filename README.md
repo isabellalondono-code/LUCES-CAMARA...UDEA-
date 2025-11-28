@@ -80,6 +80,7 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - [Visión del Proyecto ](vision.md)  
 - [Integrantes y Vínculos Académicos](Integrantes-Vínculos%20acad%C3%A9micos%20y%20descripci%C3%B3n.md)  
 - [Plan de Proyecto ](Plan_de_Proyecto.md)
+- 
 
 
 ---
@@ -91,10 +92,8 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - `/recursos/`: Imágenes, diagramas y entregables  
 - `README.md`: Página principal del proyecto  
 - `LICENSE.md`: Licencia del proyecto
-- `[👉 Ver Acta de Entendimiento](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20ENTENDIMIENTO_2.pdf)
--`[👉 Compromiso y Responsabilidad ](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20COMPROMISO%20Y%20RESPONSABILIDAD.pdf)
 
-
+---
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia CC-BY-NC-SA 4.0 para más detalles puedes consultar la carpeta LICENSE.
