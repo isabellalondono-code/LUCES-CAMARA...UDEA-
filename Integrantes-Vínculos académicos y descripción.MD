@@ -40,7 +40,7 @@ Aportar significativamente con mis conocimientos al desarrollo de mi familia y c
 
 -------
 
-##👩🏻‍💻 Isabella Londoño
+## 👩🏻‍💻 Isabella Londoño
 
 Estudiante de Ingeniería Industrial e Ingeniería de Sistemas – Sede Medellín
 
@@ -55,7 +55,7 @@ Estudiante de Ingeniería Industrial e Ingeniería de Sistemas – Sede Medellí
 -Liderazgo constructivo.
 -Adaptabilidad al cambio.
 
-### 🔭 Visión
+###  🔭 Visión
 
 -Desarrollar habilidades técnicas y profesionales que me permitan crecer en el campo de la ingeniería, aportando soluciones efectivas y aprendiendo constantemente en un entorno cambiante.
 
@@ -120,15 +120,15 @@ Pensamiento crítico y analítico.
 -Trabajo en equipo.
 -Adaptabilidad.
 
-###🔭 Visión
+### 🔭 Visión
 
 -Convertirme en un profesional íntegro que aporte al crecimiento de mi comunidad y del sector productivo mediante soluciones eficientes y socialmente responsables.
 
-###🎯 Misión
+### 🎯 Misión
 
 -Aportar mis habilidades personales y técnicas para fortalecer el desarrollo de los proyectos en los que participo, manteniendo una actitud positiva y proactiva.
 
-###💡 Intereses académicos y profesionales
+### 💡 Intereses académicos y profesionales
 
 -Gestión de procesos.
 -Mejoramiento continuo.
