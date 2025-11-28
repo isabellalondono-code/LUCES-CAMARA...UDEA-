@@ -1,4 +1,4 @@
-🗂️ ### **Cronograma:**  
+# 📅 Cronograma del Proyecto 
 Representa la planeación temporal del proyecto, indicando las tareas principales,
 su duración estimada y el periodo en el que fueron ejecutadas.
 Este permite evidenciar la organización del equipo, la distribución de actividades
@@ -15,24 +15,6 @@ y el cumplimiento progresivo de los objetivos establecidos.
 | 7 Plan del proyecto + Gantt         | 20/10 | 05/11 |        |        |       |       |       |        |        |        |        |        | ████   | ████   | ████   |        |        |        |
 | 8 Revisión + correcciones finales   | 05/11 | 25/11 |        |        |       |       |       |        |        |        |        |        |        | ████   | ████   | ████   | ████   |        |
 | 9 Entrega final                     | 25/11 | 29/11 |        |        |       |       |       |        |        |        |        |        |        |        |        | ████   | ████   | ████   |
-
-
-
-
-
-# 📅 Cronograma del Proyecto
-
-| Nº Actividad | Inicio      | Final       | 28-ago | 3-sep | 10-sep | 17-sep | 24-sep | 1-oct | 8-oct | 15-oct | 22-oct | 29-oct | 5-nov | 12-nov | 19-nov | 26-nov | 29-nov |
-|--------------|-------------|-------------|--------|-------|--------|--------|--------|-------|-------|--------|--------|--------|--------|--------|--------|--------|
-| **1. Reunión inicial** | 28/08/2025 | 30/08/2025 | 🟩🟩🟩 |       |        |        |        |       |       |        |        |        |        |        |        |        |        |
-| **2. Creación del repositorio en GitHub** | 30/08/2025 | 02/09/2025 |        | 🟩🟩 |        |        |        |       |       |        |        |        |        |        |        |        |
-| **3. Redacción del README (1 y 2)** | 02/09/2025 | 09/09/2025 |        | 🟩🟩🟩 | 🟩🟩🟩 |        |        |       |       |        |        |        |        |        |        |        |
-| **4. Nombre del proyecto + Logo** | 02/09/2025 | 08/09/2025 |        | 🟩🟩🟩 | 🟩🟩 |        |        |       |       |        |        |        |        |        |        |        |
-| **5. Crear licencia MIT** | 07/09/2025 | 09/09/2025 |        |        | 🟩🟩🟩 |        |        |       |       |        |        |        |        |        |        |        |
-| **6. Acta de visión / Reporte de visión** | 08/09/2025 | 12/09/2025 |        |        | 🟩🟩🟩 | 🟩🟩🟩 |        |       |       |        |        |        |        |        |        |        |
-| **7. Plan de proyecto + Gantt** | 19/09/2025 | 22/09/2025 |        |        |        | 🟩🟩🟩 | 🟩 |       |       |        |        |        |        |        |        |        |
-| **8. Desarrollo + Codificación** | 25/09/2025 | 10/11/2025 |        |        |        |        | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩 |        |        |        |        |
-| **9. Organización y correcciones finales + entrega** | 11/11/2025 | 29/11/2025 |        |        |        |        |        |        |        |        |        | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩 |
 
 
 
