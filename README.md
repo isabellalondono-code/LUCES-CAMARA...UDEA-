@@ -63,7 +63,7 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - Git y GitHub  
 - Licencia MIT / Creative Commons  
 - Herramientas de planificación (diagrama de Gantt)  
-- Visualización básica (matplotlib / seaborn)  
+- Visualización básica (Visual Studio Code )  
 - Repositorios de GitHub consultados:  
   - Python-Examples
   - Awesome-Python
