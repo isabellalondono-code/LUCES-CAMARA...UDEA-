@@ -1,5 +1,7 @@
-📘 ##Manual de Usuario — Cine, Cámaras y UdeA## 🎬✨
-🎯 1. Introducción
+📘 #### 🎬✨
+### 💰 **Manual de Usuario — Cine, Cámaras y UdeA**
+
+1. Introducción
 
 El presente Manual de Usuario tiene como objetivo explicar de manera clara, sencilla y visual el funcionamiento del sistema Cine, Cámaras y UdeA, desarrollado como proyecto académico para el curso de Algoritmia y Programación.
 
