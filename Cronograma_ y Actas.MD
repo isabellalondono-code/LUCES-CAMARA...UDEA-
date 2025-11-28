@@ -20,9 +20,10 @@ y el cumplimiento progresivo de los objetivos establecidos.
 
 📝 # **Actas del proyecto:**  
 Aquí se incluyen las actas de:
-- **Acta de Compromiso**  
-- **Acta de Responsabilidad**  
+- **Acta de Compromiso y Responsabilidad**    
 - **Acta de Entendimiento**  
+
+
 
 Estas actas sirven como respaldo formal del trabajo colaborativo,
 dejando constancia de los acuerdos internos del grupo, la distribución de funciones,
