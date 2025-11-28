@@ -160,14 +160,14 @@ El sistema mostrará:
 
 ### Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego! 🍿
 
-👩‍💻 ### **11. Equipo de Desarrollo**
+👩‍💻  **11. Equipo de Desarrollo**
 
 Proyecto realizado por:
 
-👩‍🎓 Isabella Londoño
+👩‍🎓 Isabella Londoño Osorio
 👨‍🎓 Julián Alberto Gómez Agudelo
 👨‍🎓 Michael Hincapié Alzate
 👨‍🎓 Anderson Arboleda Duque
 
 ###   **Facultad de Ingeniería – Universidad de Antioquia**
-Semestre 2025-2
+**Semestre 2025-2**
