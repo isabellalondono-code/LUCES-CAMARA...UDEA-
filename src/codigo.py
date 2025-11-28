@@ -1,3 +1,4 @@
+# este bloque configura el entorno y establece las contantes y estructuras de datos base del sistema.
 import csv
 from datetime import datetime
 import pytz
@@ -36,6 +37,7 @@ USUARIOS = {}  # key: documento, value: dict con datos del usuario
 ASIENTOS = {}
 RESERVAS = []  # cada reserva: {documento, idx_funcion, asiento, valor, fecha}
 
+# este bloque establece la disposicion fisica de la sala de cine.
 # Inicializa asientos (11 filas A-K, 11 columnas 1-11, "O" libre, "X" ocupado)
 def crear_mapa_asientos():
     filas = [chr(ord('A') + i) for i in range(11)]  # A..K
@@ -45,6 +47,7 @@ def crear_mapa_asientos():
 for idx in range(len(CARTELERA)):
     ASIENTOS[idx] = crear_mapa_asientos()
 
+# estas funciones verifican que la informacion ingresada por el usuario cumplan con los requisitos del sistema.
 # -----------------------------
 # Utilidades y validaciones
 # -----------------------------
@@ -86,6 +89,7 @@ def print_errores(errores):
         print(f"  {i}. {e}")
     print()
 
+# este bloque permite guardar los datos en archivos de textos estructurados.
 def exportar_csv_usuarios(ruta="usuarios.csv"):
     campos = ["documento", "nombre", "apellido", "vinculo"]
     with open(ruta, "w", newline="", encoding="utf-8") as f:
@@ -117,6 +121,7 @@ def exportar_csv_reservas(ruta="reservas.csv"):
                 "fecha": r["fecha"],
             })
 
+# estas funciones guian al usuario para la seleccion de pelicula y asiento.
 def imprimir_mapa_asientos(idx_funcion):
     # Imprime un mapa similar al del enunciado, marcando "O" libres y "X" ocupados
     print("\nCINEMA UDEA (O Disponible) (X Ocupado)")
@@ -163,6 +168,7 @@ def solicitar_asiento(idx_funcion):
                         continue
         print("Formato de asiento inválido. Usa letra A-K y número 1-11 (ejemplo: C7).")
 
+# este bloque implementa las acciones principales de la aplicacion:compra,registro y cancelacion.
 def confirmar_compra(documento, idx_funcion, asiento):
     vinculo = USUARIOS[documento]["vinculo"]
     valor = TARIFAS[vinculo]
@@ -302,6 +308,7 @@ def consultar_funciones():
             print(f"  [{i}] {fun['dia']} {fun['hora']} | Asientos disponibles: {disp}")
     print()
 
+# este bloque contiene la logica para acceder a metricas y reportes del sistema.
 def admin_login():
     # Usuarios y contraseñas de administrador
     admins = {"admin": "admin123", "po_udea": "cinema2025"}
@@ -380,6 +387,7 @@ def admin_menu():
 # Menú principal
 # -----------------------------
 
+# este es el bucle principal de la aplicacion que interactua con el usuario.
 def menu_principal():
     print("\nCINEMA UDEA")
     print("Bienvenido al Cinema UdeA Luces, Camara y UdeA")
@@ -417,4 +425,5 @@ def menu_principal():
 
 if __name__ == "__main__":
     menu_principal()
+
 
