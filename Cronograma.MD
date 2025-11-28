@@ -18,13 +18,14 @@ y el cumplimiento progresivo de los objetivos establecidos.
 
 
 
-📝 # **Actas del proyecto:**  
+📝  **Actas del proyecto:**  
 Aquí se incluyen las actas de:
 - **Acta de Compromiso y Responsabilidad**    
 - **Acta de Entendimiento**  
 
-[👉 Ver Acta de Entendimiento](carpeta/archivo.pdf)
+[👉 Ver Acta de Entendimiento](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20COMPROMISO%20Y%20RESPONSABILIDAD.pdf)
 
+[👉 Compromiso y Responsabilidad ](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20COMPROMISO%20Y%20RESPONSABILIDAD.pdf)
 
 Estas actas sirven como respaldo formal del trabajo colaborativo,
 dejando constancia de los acuerdos internos del grupo, la distribución de funciones,
