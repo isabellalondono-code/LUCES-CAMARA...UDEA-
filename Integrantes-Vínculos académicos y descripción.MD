@@ -26,7 +26,7 @@ Proyecto principal Luces, Cámara y UdeA
 
 ### 🔭Visión 
 Aprender las tecnicas y habilidades necesarias para desenvolverme eficientemente en el mundo actual,
-aprendiendo y evolucionando contantemente ante un mundo tan cambiante; ser ejemplo de que con esfuerzo y dedicación es posible cumplir los sueños.
+aprendiendo y evolucionando constantemente ante un mundo tan cambiante; ser ejemplo de que con esfuerzo y dedicación es posible cumplir los sueños.
 
 ### 🎯Misión
 Aportar significativamente con mis conocimientos al desarrollo de mi familia y comunidad.
