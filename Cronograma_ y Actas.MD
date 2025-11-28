@@ -18,7 +18,7 @@ y el cumplimiento progresivo de los objetivos establecidos.
 
 
 
-📝 ### **Actas del proyecto:**  
+📝 # **Actas del proyecto:**  
 Aquí se incluyen las actas de:
 - **Acta de Compromiso**  
 - **Acta de Responsabilidad**  
