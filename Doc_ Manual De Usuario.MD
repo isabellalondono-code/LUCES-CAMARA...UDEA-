@@ -1,7 +1,7 @@
 
 ###  **Manual de Usuario — Cine, Cámaras y UdeA** 🎬✨
 
-1. Introducción
+**1. Introducción**
 
 El presente Manual de Usuario tiene como objetivo explicar de manera clara, sencilla y visual el funcionamiento del sistema Cine, Cámaras y UdeA, desarrollado como proyecto académico para el curso de Algoritmia y Programación.
 
@@ -89,22 +89,29 @@ Si los datos son válidos, aparece:
 Para hacer una reserva:
 
 -Ingresa el documento del usuario ya registrado
+
 -Se mostrará la sala con asientos disponibles (O) y ocupados (X)
+
 -Selecciona un asiento (Ej: A5)
+
 -Si está libre, el sistema lo reserva
+
 -Ejemplo de confirmación:
 
 ✔ Reserva realizada exitosamente.
 Asiento: A5
 Valor: $7000
 
-❌ ¿**7. Cancelar Reserva**
+❌ **7. Cancelar Reserva**
 
 -Permite cancelar una reserva activa:
 
 -Ingresar documento del usuario
+
 -Seleccionar asiento a cancelar
+
 --El sistema libera el asiento
+
 -Resultado:
 
 ✔ Reserva cancelada correctamente.
@@ -122,17 +129,25 @@ Muestra la cartelera disponible:
 Para acceder:
 
 -Usuario: admin
+
 -Contraseña: 1234
 
 El sistema muestra:
 
 -📊 Total de reservas
+
 -🎫 Total de tiquetes vendidos
+
 -💰 Total recaudado
+
 -📅 Promedio por día
+
 -🧑‍🤝‍🧑 Lista de usuarios
+
 -🏆 Usuario con más reservas
+
 -💤 Usuario con menos reservas
+
 
 🚪 **10. Salir del sistema**
 
@@ -143,9 +158,9 @@ El sistema muestra:
 
 El sistema mostrará:
 
-Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego! 🍿
+### Gracias por usar Cine, Cámaras y UdeA. ¡Hasta luego! 🍿
 
-👩‍💻 **11. Equipo de Desarrollo**
+👩‍💻 ### **11. Equipo de Desarrollo**
 
 Proyecto realizado por:
 
