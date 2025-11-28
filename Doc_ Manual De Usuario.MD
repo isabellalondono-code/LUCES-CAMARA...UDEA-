@@ -1,5 +1,5 @@
-📘 #### 🎬✨
-### 💰 **Manual de Usuario — Cine, Cámaras y UdeA**
+
+###  **Manual de Usuario — Cine, Cámaras y UdeA** 🎬✨
 
 1. Introducción
 
