@@ -23,6 +23,7 @@ Aquí se incluyen las actas de:
 - **Acta de Compromiso y Responsabilidad**    
 - **Acta de Entendimiento**  
 
+[👉 Ver Acta de Entendimiento](carpeta/archivo.pdf)
 
 
 Estas actas sirven como respaldo formal del trabajo colaborativo,
