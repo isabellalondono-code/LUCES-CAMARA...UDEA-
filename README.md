@@ -91,6 +91,8 @@ El desarrollo se realizó bajo una metodología ágil, con división de roles, r
 - `/recursos/`: Imágenes, diagramas y entregables  
 - `README.md`: Página principal del proyecto  
 - `LICENSE.md`: Licencia del proyecto
+- `[👉 Ver Acta de Entendimiento](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20ENTENDIMIENTO_2.pdf)
+-`[👉 Compromiso y Responsabilidad ](https://github.com/isabellalondono-code/LUCES-CAMARA...UDEA-/blob/main/ACTA%20DE%20COMPROMISO%20Y%20RESPONSABILIDAD.pdf)
 
 
 ## 📝 Licencia
